@@ -1,0 +1,120 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_42_start2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Level_42Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1600
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1500
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "boy": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 2580.101
+            },
+            {
+              "frame": 3,
+              "value": 1730
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "boy/boyqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            },
+            {
+              "frame": 6,
+              "value": false
+            }
+          ]
+        }
+      },
+      "phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "14"
+      ]
+    },
+    {
+      "frame": 4,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "15"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "755caf3d-45bf-47c3-81a0-984c6bb7926c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 170,
+  "height": 85,
+  "platformSettings": {},
+  "subMetas": {
+    "other_碎片1": {
+      "ver": "1.0.4",
+      "uuid": "876d9c91-2262-47b6-aa43-58e8850470bc",
+      "rawTextureUuid": "755caf3d-45bf-47c3-81a0-984c6bb7926c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 170,
+      "height": 85,
+      "rawWidth": 170,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

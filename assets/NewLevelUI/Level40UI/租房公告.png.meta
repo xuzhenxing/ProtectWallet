@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f3274dc6-25a4-421d-93f3-07466d41c877",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 363,
+  "height": 249,
+  "platformSettings": {},
+  "subMetas": {
+    "租房公告": {
+      "ver": "1.0.4",
+      "uuid": "3ade46cd-200b-4a76-89e7-120e5ae3a188",
+      "rawTextureUuid": "f3274dc6-25a4-421d-93f3-07466d41c877",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 362,
+      "height": 247,
+      "rawWidth": 363,
+      "rawHeight": 249,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

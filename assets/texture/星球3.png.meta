@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a8792ddf-f705-489c-abaa-64cbd0e7b73e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 343,
+  "height": 134,
+  "platformSettings": {},
+  "subMetas": {
+    "星球3": {
+      "ver": "1.0.4",
+      "uuid": "0362c90f-831a-4821-bc60-6d4c95f8ba4e",
+      "rawTextureUuid": "a8792ddf-f705-489c-abaa-64cbd0e7b73e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 343,
+      "height": 134,
+      "rawWidth": 343,
+      "rawHeight": 134,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

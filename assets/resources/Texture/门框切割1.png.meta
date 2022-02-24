@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d1daad45-011b-425f-859b-a93ba5eb4692",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 10,
+  "height": 472,
+  "platformSettings": {},
+  "subMetas": {
+    "门框切割1": {
+      "ver": "1.0.4",
+      "uuid": "a51916a6-5d55-43d6-ac5c-24c2223c5bd3",
+      "rawTextureUuid": "d1daad45-011b-425f-859b-a93ba5eb4692",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 10,
+      "height": 472,
+      "rawWidth": 10,
+      "rawHeight": 472,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

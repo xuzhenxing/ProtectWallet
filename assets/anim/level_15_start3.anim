@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_15_start3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 7,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 5,
+              "value": 1000
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -155.375
+            },
+            {
+              "frame": 5,
+              "value": 840.919
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            },
+            {
+              "frame": 7,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心/爱心": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "e069e4f9-e2c8-4b67-be57-37809f553eb0"
+                }
+              },
+              {
+                "frame": 4.966666666666667,
+                "value": {
+                  "__uuid__": "b3feaaa1-36ca-4a2b-ad60-7deba2543e57"
+                }
+              },
+              {
+                "frame": 4.983333333333333
+              }
+            ]
+          }
+        },
+        "props": {
+          "scale": [
+            {
+              "frame": 4.983333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.628,
+                "y": 2.628
+              }
+            },
+            {
+              "frame": 5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.31,
+                "y": 1.31
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 5,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    }
+  ]
+}

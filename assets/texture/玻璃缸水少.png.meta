@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3e8fea66-112d-4e04-af14-fffbc6350b54",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 255,
+  "height": 132,
+  "platformSettings": {},
+  "subMetas": {
+    "玻璃缸水少": {
+      "ver": "1.0.4",
+      "uuid": "a4baef30-7b38-4329-82fc-19fa59cb003a",
+      "rawTextureUuid": "3e8fea66-112d-4e04-af14-fffbc6350b54",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 255,
+      "height": 132,
+      "rawWidth": 255,
+      "rawHeight": 132,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

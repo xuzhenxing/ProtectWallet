@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "6b2c468a-7367-4dbe-8184-6f502d8ee711",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 750,
+  "platformSettings": {},
+  "subMetas": {
+    "警察局背景": {
+      "ver": "1.0.4",
+      "uuid": "59001366-c435-4f1d-9d6c-df0b7a4d4735",
+      "rawTextureUuid": "6b2c468a-7367-4dbe-8184-6f502d8ee711",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 750,
+      "rawWidth": 1024,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

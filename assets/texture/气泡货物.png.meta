@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "18d5e8e5-d670-423c-80f3-68a21b66adde",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 15,
+  "height": 39,
+  "platformSettings": {},
+  "subMetas": {
+    "气泡货物": {
+      "ver": "1.0.4",
+      "uuid": "c1d277b1-1bba-402d-b5ae-f3baaf84329c",
+      "rawTextureUuid": "18d5e8e5-d670-423c-80f3-68a21b66adde",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 15,
+      "height": 39,
+      "rawWidth": 15,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

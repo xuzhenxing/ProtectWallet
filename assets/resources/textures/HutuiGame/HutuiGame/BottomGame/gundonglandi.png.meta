@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "18975d54-9cb8-4b34-b413-13e7a05363d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 190,
+  "platformSettings": {},
+  "subMetas": {
+    "gundonglandi": {
+      "ver": "1.0.4",
+      "uuid": "a1a4630a-0206-45d7-aaed-7bc43cb38d57",
+      "rawTextureUuid": "18975d54-9cb8-4b34-b413-13e7a05363d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 190,
+      "rawWidth": 100,
+      "rawHeight": 190,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

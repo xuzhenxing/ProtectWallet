@@ -1,0 +1,123 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_34_start2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 880
+            },
+            {
+              "frame": 2,
+              "value": 1000
+            }
+          ]
+        }
+      },
+      "Level_34Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1050
+            },
+            {
+              "frame": 2,
+              "value": 1100
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "professor": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1601.494
+            },
+            {
+              "frame": 2,
+              "value": 1280
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "professor/qipaoProfessor": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Boy": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Smoke": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

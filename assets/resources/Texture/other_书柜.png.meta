@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7b408265-9ad8-4143-a12e-874bf13bc6e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 301,
+  "height": 426,
+  "platformSettings": {},
+  "subMetas": {
+    "other_书柜": {
+      "ver": "1.0.4",
+      "uuid": "6ecc9c19-e305-46b7-81a4-8d1073e51427",
+      "rawTextureUuid": "7b408265-9ad8-4143-a12e-874bf13bc6e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 301,
+      "height": 426,
+      "rawWidth": 301,
+      "rawHeight": 426,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

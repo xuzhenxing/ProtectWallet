@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_36_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 7,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 4,
+              "value": true
+            },
+            {
+              "frame": 7,
+              "value": false
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 7,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 263.207
+            },
+            {
+              "frame": 1,
+              "value": 263.207
+            },
+            {
+              "frame": 3,
+              "value": 1410.648
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 3.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "2"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

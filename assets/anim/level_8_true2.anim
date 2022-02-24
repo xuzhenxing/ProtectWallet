@@ -1,0 +1,241 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_8_true2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "污水": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "污水消失": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            },
+            {
+              "frame": 2.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 492.926
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": 492.926
+            },
+            {
+              "frame": 6.5,
+              "value": 1410
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 375
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 375
+            },
+            {
+              "frame": 6.5,
+              "value": 1180
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": true
+            },
+            {
+              "frame": 2.5833333333333335,
+              "value": false
+            }
+          ]
+        }
+      },
+      "窗外白天": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "窗外夜景": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "太阳": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.25,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                588.165,
+                -7.604,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                586.648,
+                -6.087,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                518.784,
+                159.607,
+                0
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                518.784,
+                159.607,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "4"
+      ]
+    },
+    {
+      "frame": 2.4833333333333334,
+      "func": "ShowUIRight",
+      "params": []
+    },
+    {
+      "frame": 2.5,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    }
+  ]
+}

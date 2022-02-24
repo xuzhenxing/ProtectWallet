@@ -1,0 +1,98 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_33_wait1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -120
+            }
+          ]
+        }
+      },
+      "Level_33Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 100
+            }
+          ]
+        }
+      },
+      "phoneQipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            },
+            {
+              "frame": 5.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            },
+            {
+              "frame": 8,
+              "value": false
+            }
+          ]
+        }
+      },
+      "thief": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.5,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "7"
+      ]
+    },
+    {
+      "frame": 5.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "0"
+      ]
+    }
+  ]
+}

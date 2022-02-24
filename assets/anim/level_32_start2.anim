@@ -1,0 +1,100 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_32_start2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2950
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 422.243
+            }
+          ]
+        }
+      },
+      "Level_32Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 3200
+            }
+          ]
+        }
+      },
+      "ball": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "hook": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 3322.628
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 1069.992
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "2"
+      ]
+    }
+  ]
+}

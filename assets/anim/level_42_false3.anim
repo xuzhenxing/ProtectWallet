@@ -1,0 +1,60 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_42_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "badMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 2599.656
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": 1776.113
+            },
+            {
+              "frame": 8,
+              "value": 1776.113
+            }
+          ]
+        }
+      },
+      "badMan/bad": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIWrong","params":[]},{
+      "frame": 4,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "18"
+      ]
+    }]
+}

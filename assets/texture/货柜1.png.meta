@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0dd5264c-5c35-46a9-b559-9cb43b74a2d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 321,
+  "height": 366,
+  "platformSettings": {},
+  "subMetas": {
+    "货柜1": {
+      "ver": "1.0.4",
+      "uuid": "3fe5ef39-fdf3-41bc-b431-f511462e1a38",
+      "rawTextureUuid": "0dd5264c-5c35-46a9-b559-9cb43b74a2d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 321,
+      "height": 364,
+      "rawWidth": 321,
+      "rawHeight": 366,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

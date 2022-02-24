@@ -1,0 +1,177 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_44_true3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 11.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 750
+            },
+            {
+              "frame": 2,
+              "value": 1679.809
+            }
+          ]
+        }
+      },
+      "Level_44Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 850
+            },
+            {
+              "frame": 2,
+              "value": 1850
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                1762.934,
+                -268.339,
+                0
+              ]
+            },
+            {
+              "frame": 0.7333333333333333,
+              "value": [
+                1762.934,
+                -268.339,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                2351.28,
+                -268.339,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "police/policeqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            },
+            {
+              "frame": 9.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            },
+            {
+              "frame": 9.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 11.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "24"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIRight",
+      "params": []
+    }, {
+      "frame": 5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "25"
+      ]
+    },
+    {
+      "frame": 9,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "25"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    }
+  ]
+}

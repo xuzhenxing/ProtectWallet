@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_42_start3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "phone": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1723.346
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Level_42Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1600
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1500
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 2562.739
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "25"
+      ]
+    }
+  ]
+}

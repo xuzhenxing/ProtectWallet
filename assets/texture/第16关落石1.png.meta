@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "94b20bac-60f6-4790-b6aa-f8d4054b498a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 31,
+  "platformSettings": {},
+  "subMetas": {
+    "第16关落石1": {
+      "ver": "1.0.4",
+      "uuid": "598565cf-35c9-4cef-bfd7-6f7781342046",
+      "rawTextureUuid": "94b20bac-60f6-4790-b6aa-f8d4054b498a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 58,
+      "height": 31,
+      "rawWidth": 58,
+      "rawHeight": 31,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

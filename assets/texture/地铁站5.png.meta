@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9755048d-e0d1-4857-a5bb-3550ed5d36ed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 33,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "地铁站5": {
+      "ver": "1.0.4",
+      "uuid": "971b84ae-bcf7-4837-96aa-dde3147775d6",
+      "rawTextureUuid": "9755048d-e0d1-4857-a5bb-3550ed5d36ed",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 33,
+      "height": 102,
+      "rawWidth": 33,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

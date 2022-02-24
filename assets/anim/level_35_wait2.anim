@@ -1,0 +1,88 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_35_wait2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 10.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2100
+            }
+          ]
+        }
+      },
+      "Level_35Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2250
+            }
+          ]
+        }
+      },
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            },
+            {
+              "frame": 6,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            },
+            {
+              "frame": 10.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.8,
+      "func": "ShowBubble",
+      "params": [
+        "3",
+        "18"
+      ]
+    },
+    {
+      "frame": 5.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "16"
+      ]
+    }
+  ]
+}

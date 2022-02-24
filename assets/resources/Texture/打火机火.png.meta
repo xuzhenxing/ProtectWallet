@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e4dbe292-fc56-4509-ae2c-f3dc336811af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 19,
+  "height": 29,
+  "platformSettings": {},
+  "subMetas": {
+    "打火机火": {
+      "ver": "1.0.4",
+      "uuid": "2089b4e4-89d8-4fc3-9e2f-6470640cb888",
+      "rawTextureUuid": "e4dbe292-fc56-4509-ae2c-f3dc336811af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 19,
+      "height": 29,
+      "rawWidth": 19,
+      "rawHeight": 29,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_31_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "dog": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": 42
+            },
+            {
+              "frame": 2.5,
+              "value": 500
+            }
+          ],
+          "active": [
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2.5,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.9833333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "door/door3": {
+        "props": {
+          "x": [
+            {
+              "frame": 2,
+              "value": -410
+            },
+            {
+              "frame": 3,
+              "value": -398.174
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0.8
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 0.8
+              }
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "door2": {
+        "comps": {},
+        "props": {
+          "x": [
+            {
+              "frame": 2,
+              "value": 302.767
+            },
+            {
+              "frame": 3,
+              "value": 276.045
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "2"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIRight",
+      "params": []
+    }
+  ]
+}

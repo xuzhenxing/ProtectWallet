@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c8317307-d083-45a8-bc17-25886e8b432d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 68,
+  "height": 34,
+  "platformSettings": {},
+  "subMetas": {
+    "路面1": {
+      "ver": "1.0.4",
+      "uuid": "4d75eb5e-68a7-46e7-86c8-bbd3f238857a",
+      "rawTextureUuid": "c8317307-d083-45a8-bc17-25886e8b432d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 34,
+      "rawWidth": 68,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

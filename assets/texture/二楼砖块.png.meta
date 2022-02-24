@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "69f84e03-8bf2-457a-80a8-9f5c12a59640",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 78,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "二楼砖块": {
+      "ver": "1.0.4",
+      "uuid": "b473d09b-27fd-4f53-a9eb-89305b863bee",
+      "rawTextureUuid": "69f84e03-8bf2-457a-80a8-9f5c12a59640",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 78,
+      "height": 32,
+      "rawWidth": 78,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

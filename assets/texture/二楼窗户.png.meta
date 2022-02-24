@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "74725cf1-bb38-4213-ab7f-8be004ff44d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 394,
+  "height": 303,
+  "platformSettings": {},
+  "subMetas": {
+    "二楼窗户": {
+      "ver": "1.0.4",
+      "uuid": "ed19b2b5-3e78-4ba5-8bb8-aefa983561b4",
+      "rawTextureUuid": "74725cf1-bb38-4213-ab7f-8be004ff44d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 394,
+      "height": 303,
+      "rawWidth": 394,
+      "rawHeight": 303,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

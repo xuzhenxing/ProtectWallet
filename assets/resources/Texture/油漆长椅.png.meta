@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7644b0d9-3501-4f64-b839-38c42405a3b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 377,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "油漆长椅": {
+      "ver": "1.0.4",
+      "uuid": "6e9e7c2f-7dad-47e1-8c4e-025050d5ea40",
+      "rawTextureUuid": "7644b0d9-3501-4f64-b839-38c42405a3b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 377,
+      "height": 180,
+      "rawWidth": 377,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

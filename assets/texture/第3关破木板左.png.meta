@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "911afa74-cb82-4268-a2f4-3daabf74ac73",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 186,
+  "height": 49,
+  "platformSettings": {},
+  "subMetas": {
+    "第3关破木板左": {
+      "ver": "1.0.4",
+      "uuid": "2b1abb5a-1b92-47e4-a166-7cb3b8dad606",
+      "rawTextureUuid": "911afa74-cb82-4268-a2f4-3daabf74ac73",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 186,
+      "height": 49,
+      "rawWidth": 186,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

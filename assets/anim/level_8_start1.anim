@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"level_8_start1","_duration":6,"curveData":{"paths":{"猪脚":{"props":{"x":[{"frame":0,"value":-2400},{"frame":6,"value":-1103.47}]}},"Main Camera":{"props":{"x":[{"frame":1,"value":-2055},{"frame":6,"value":-960}]}},"猪脚/气泡":{"props":{"active":[{"frame":0,"value":false}]}}}},"events":[{"frame":6,"func":"ShowDragon","params":["0"]}]}

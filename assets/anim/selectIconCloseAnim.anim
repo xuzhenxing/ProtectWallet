@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"selectIconCloseAnim","_duration":0.36666666666666664,"wrapMode":36,"curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2"}},{"frame":0.36666666666666664,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}}}

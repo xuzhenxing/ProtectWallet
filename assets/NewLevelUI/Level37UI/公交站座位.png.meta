@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "15170086-eb2b-4de2-b8b7-fa5e00109268",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 343,
+  "height": 174,
+  "platformSettings": {},
+  "subMetas": {
+    "公交站座位": {
+      "ver": "1.0.4",
+      "uuid": "fd05ae1b-c9e6-4048-863b-17f29d63764b",
+      "rawTextureUuid": "15170086-eb2b-4de2-b8b7-fa5e00109268",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 343,
+      "height": 174,
+      "rawWidth": 343,
+      "rawHeight": 174,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

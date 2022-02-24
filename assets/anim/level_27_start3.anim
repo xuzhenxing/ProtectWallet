@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_27_start3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2000
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "shark": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2000
+            }
+          ]
+        }
+      },
+      "shark1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 3210.3
+            },
+            {
+              "frame": 3,
+              "value": 2330
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

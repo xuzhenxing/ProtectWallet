@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5a9188b5-664b-47d0-8722-8346f6bd8385",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "农夫躲树后mask": {
+      "ver": "1.0.4",
+      "uuid": "2d09b03b-849e-4889-89f1-dc743c9f85fe",
+      "rawTextureUuid": "5a9188b5-664b-47d0-8722-8346f6bd8385",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

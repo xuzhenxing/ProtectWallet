@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_44_false1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.366666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Car": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 750.061
+            },
+            {
+              "frame": 2,
+              "value": 190.92
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            }
+          ]
+        }
+      },
+      "badMan1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -181.399
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 5.366666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Car/Carqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "26"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },
+     {
+      "frame": 2,
+      "func": "ShowUIWrong",
+      "params": []
+    }
+  ]
+}

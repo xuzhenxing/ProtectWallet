@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5a8bb70d-ac7a-4856-9c03-83470e565330",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 281,
+  "height": 493,
+  "platformSettings": {},
+  "subMetas": {
+    "玻璃缸破": {
+      "ver": "1.0.4",
+      "uuid": "9e067e8d-fe25-4aa5-87c7-2ee8f7de7197",
+      "rawTextureUuid": "5a8bb70d-ac7a-4856-9c03-83470e565330",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 281,
+      "height": 493,
+      "rawWidth": 281,
+      "rawHeight": 493,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

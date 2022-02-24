@@ -1,0 +1,100 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_26_true2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 7,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "falseFire": {
+        "props": {
+          "active": []
+        }
+      },
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.0166666666666666,
+              "value": 2200
+            },
+            {
+              "frame": 7,
+              "value": 3100
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.0166666666666666,
+              "value": 2100
+            },
+            {
+              "frame": 7,
+              "value": 2991.277
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipaoAixin": {
+        "props": {
+          "active": [
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 5.516666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "flash1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 200
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "猪脚/qipaoAixin/New Sprite": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 3,
+                "value": {
+                  "__uuid__": "670e9d02-320d-4417-ae94-5b85f4eb97c4"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIRight","params":[]}]
+}

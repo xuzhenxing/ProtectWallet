@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0467f7c2-1982-431f-8477-b8e7f75df81f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 355,
+  "platformSettings": {},
+  "subMetas": {
+    "公园背景树1": {
+      "ver": "1.0.4",
+      "uuid": "50957664-e6d9-4faf-96d6-403062f9a624",
+      "rawTextureUuid": "0467f7c2-1982-431f-8477-b8e7f75df81f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 355,
+      "rawWidth": 256,
+      "rawHeight": 355,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

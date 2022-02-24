@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_32_start3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2950
+            },
+            {
+              "frame": 2.5,
+              "value": 4050
+            }
+          ]
+        }
+      },
+      "Level_32Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 3200
+            },
+            {
+              "frame": 2.5,
+              "value": 4200
+            }
+          ]
+        }
+      },
+      "mouse": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+   
+  ]
+}

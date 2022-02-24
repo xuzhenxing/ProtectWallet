@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3943dbf4-370e-496d-bd68-6d658d14247c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 286,
+  "height": 88,
+  "platformSettings": {},
+  "subMetas": {
+    "地洞切割": {
+      "ver": "1.0.4",
+      "uuid": "8c7afd74-dd19-48bf-9052-6a1d3b6e7bb7",
+      "rawTextureUuid": "3943dbf4-370e-496d-bd68-6d658d14247c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 286,
+      "height": 88,
+      "rawWidth": 286,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

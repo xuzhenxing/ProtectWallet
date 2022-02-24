@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_30_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/气泡爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2.5,
+              "value": false
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 241.47
+            },
+            {
+              "frame": 1,
+              "value": 62.206
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心/爱心": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "d7ccff0f-e810-47bb-9e27-ec1f5aef55a8"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scale": [
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIWrong","params":[]}]
+}

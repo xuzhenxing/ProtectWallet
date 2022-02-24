@@ -1,0 +1,113 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_42_false1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 13.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            },
+            {
+              "frame": 10.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 13.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "police": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 3.5,
+              "value": 877.278
+            },
+            {
+              "frame": 6.5,
+              "value": -378.363
+            }
+          ]
+        }
+      },
+      "police/policeqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 10.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "11"
+      ]
+    },
+    {
+      "frame": 3,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "12"
+      ]
+    },
+    {
+      "frame": 7,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "13"
+      ]
+    },
+    {
+      "frame": 10,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "13"
+      ]
+    },
+    {"frame":2,"func":"ShowUIWrong","params":[]}
+  ]
+}

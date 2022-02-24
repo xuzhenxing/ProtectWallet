@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_28_wait2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "野人/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            },
+            {
+              "frame": 1.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            }
+          ]
+        }
+      },
+      "野人": {
+        "props": {
+          "active": []
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 675
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "frame": 1.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "0"
+      ]
+    },
+    {
+      "frame": 2.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    }
+  ]
+}

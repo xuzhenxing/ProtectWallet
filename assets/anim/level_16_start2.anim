@@ -1,0 +1,183 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_16_start2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.516666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "落石1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "落石2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "落石3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "爆炸": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -750
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "第16关石头门": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "关上的门": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "打开的门": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -698.454
+            },
+            {
+              "frame": 3.5,
+              "value": -29.461
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5166666666666666,
+              "value": true
+            },
+            {
+              "frame": 5.516666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "火堆2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "蜘蛛": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 181.815
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "x": [],
+      "scaleX": []
+    }
+  },
+  "events": [
+    {
+      "frame": 3.5,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },
+    {
+      "frame": 3.5166666666666666,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    }
+  ]
+}

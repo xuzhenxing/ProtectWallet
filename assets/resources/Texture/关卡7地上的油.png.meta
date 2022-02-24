@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e9d0369d-6959-4b54-9f83-7d5d26b097b0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 202,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "关卡7地上的油": {
+      "ver": "1.0.4",
+      "uuid": "ee41953b-8477-4cd9-9d2d-153a0a17b78f",
+      "rawTextureUuid": "e9d0369d-6959-4b54-9f83-7d5d26b097b0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 202,
+      "height": 64,
+      "rawWidth": 202,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

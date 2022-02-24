@@ -1,0 +1,138 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_39_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            },
+            {
+              "frame": 3.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneLabel": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            },
+            {
+              "frame": 3.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Level_39Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 3.5,
+              "value": 100
+            },
+            {
+              "frame": 8,
+              "value": 1150
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "y": [
+            {
+              "frame": 3,
+              "value": -401.491
+            },
+            {
+              "frame": 3.5,
+              "value": -455.64
+            }
+          ],
+          "x": [
+            {
+              "frame": 3.5,
+              "value": -161.404
+            },
+            {
+              "frame": 8,
+              "value": 1100
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5,
+              "value": true
+            },
+            {
+              "frame": 7,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    },{
+      "frame": 3,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

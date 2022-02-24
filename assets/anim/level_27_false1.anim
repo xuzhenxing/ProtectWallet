@@ -1,0 +1,357 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_27_false1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "雷劈": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": true
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/shandian": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "e0cad7df-4961-40b8-a715-fc21fe77b7ea"
+                }
+              },
+              {
+                "frame": 1.1666666666666667,
+                "value": {
+                  "__uuid__": "106e917a-faf8-4dc6-beee-f428bd077d10"
+                }
+              },
+              {
+                "frame": 1.3333333333333333,
+                "value": {
+                  "__uuid__": "06f6eee2-6886-4d89-bd89-a093543c11d9"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "2dc9d7e6-7f67-4d8c-88a0-334783ce8824"
+                }
+              },
+              {
+                "frame": 1.6666666666666667,
+                "value": {
+                  "__uuid__": "7d0a0084-52be-4865-a424-06cec94a466f"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 0.9,
+              "value": false
+            },
+            {
+              "frame": 0.95,
+              "value": true
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/dianqiu": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.9166666666666666,
+                "value": {
+                  "__uuid__": "f7ca3661-e7df-41d3-982a-2b6e8076799b"
+                }
+              },
+              {
+                "frame": 1.0833333333333333,
+                "value": {
+                  "__uuid__": "184a8f34-88e8-40c9-a063-14a7670c2f61"
+                }
+              },
+              {
+                "frame": 1.25,
+                "value": {
+                  "__uuid__": "e846fcdc-27e4-4fe9-b0af-a2dcdf4ac3db"
+                }
+              },
+              {
+                "frame": 1.4166666666666667,
+                "value": {
+                  "__uuid__": "8e3c833c-e2bd-4c35-bdd9-6a0837a84b78"
+                }
+              },
+              {
+                "frame": 1.5833333333333333,
+                "value": {
+                  "__uuid__": "e846fcdc-27e4-4fe9-b0af-a2dcdf4ac3db"
+                }
+              },
+              {
+                "frame": 1.75,
+                "value": {
+                  "__uuid__": "184a8f34-88e8-40c9-a063-14a7670c2f61"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 0.8333333333333334,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 158.865
+            },
+            {
+              "frame": 1.5833333333333333,
+              "value": 84.15
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.9,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.5,
+                "y": 2.5
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 5,
+                "y": 5
+              }
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/glow1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.8333333333333334,
+              "value": true
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.042,
+                "y": 2.042
+              }
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 5,
+                "y": 5
+              }
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 6,
+                "y": 6
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 100
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 50
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/flash1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.9166666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            },
+            {
+              "frame": 1.0333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 9,
+                "y": 9
+              }
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/flash2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.8333333333333334,
+              "value": false
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.9333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "被电/被电了": {
+        "props": {
+          "active": [
+            {
+              "frame": 1,
+              "value": true
+            }
+          ]
+        }
+      },
+      "被电/被电了雨伞": {
+        "props": {
+          "active": [
+            {
+              "frame": 1,
+              "value": true
+            }
+          ]
+        }
+      },
+      "beidian": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [ {"frame":2,"func":"ShowUIWrong","params":[]}]
+}

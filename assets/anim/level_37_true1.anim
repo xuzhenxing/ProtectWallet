@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_37_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.283333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 2.8,
+              "value": false
+            },
+            {
+              "frame": 5.516666666666667,
+              "value": true
+            },
+            {
+              "frame": 8.283333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "bicycle": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "frame": 5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "2"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_39_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 11,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneLabel": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.3,
+                "y": 0.3
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.3,
+                "y": 0.3
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG/拉黑": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG/帮我投资": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG/提示": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG/真是": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG/等等": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG/这是": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG/转账": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "Phone/PhoneBG/收益": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bad": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 2008.889
+            },
+            {
+              "frame": 5,
+              "value": 2008.889
+            },
+            {
+              "frame": 8,
+              "value": 1373.976
+            },
+            {
+              "frame": 11,
+              "value": 1373.976
+            }
+          ]
+        }
+      },
+      "bad/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.016666666666666666,
+              "value": false
+            },
+            {
+              "frame": 8,
+              "value": true
+            },
+            {
+              "frame": 9.5,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "2"
+      ]
+    },{
+      "frame": 3,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "2"
+      ]
+    },{
+      "frame": 7.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "2"
+      ]
+    },
+    {"frame":2,"func":"ShowUIWrong","params":[]}
+  ]
+}

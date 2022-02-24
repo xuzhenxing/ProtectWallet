@@ -1,0 +1,253 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_44_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 21.016666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 4,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            },
+            {
+              "frame": 10,
+              "value": false
+            },
+            {
+              "frame": 12,
+              "value": true
+            },
+            {
+              "frame": 16,
+              "value": false
+            },
+            {
+              "frame": 17,
+              "value": true
+            },
+            {
+              "frame": 19,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                994.177,
+                -111.779,
+                0
+              ]
+            },
+            {
+              "frame": 3.9833333333333334,
+              "value": [
+                994.177,
+                -111.779,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                926.472,
+                -76.138,
+                0
+              ]
+            },
+            {
+              "frame": 16.966666666666665,
+              "value": [
+                926.472,
+                -76.138,
+                0
+              ]
+            },
+            {
+              "frame": 16.983333333333334,
+              "value": [
+                994.177,
+                -111.779,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Phone/finger": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.5,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            },
+            {
+              "frame": 6,
+              "value": false
+            },
+            {
+              "frame": 10,
+              "value": true
+            },
+            {
+              "frame": 12,
+              "value": false
+            },
+            {
+              "frame": 16,
+              "value": true
+            },
+            {
+              "frame": 17,
+              "value": false
+            },
+            {
+              "frame": 19,
+              "value": true
+            },
+            {
+              "frame": 21.016666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+     {
+      "frame": 2,
+      "func": "ShowUIWrong",
+      "params": []
+    },
+    {
+      "frame": 2.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "11"
+      ]
+    },
+    {
+      "frame": 3.8,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "12"
+      ]
+    },
+    {
+      "frame": 4.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "13"
+      ]
+    },
+    {
+      "frame": 5.8,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "14"
+      ]
+    },
+    {
+      "frame": 8,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "15"
+      ]
+    },
+    {
+      "frame": 10,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "16"
+      ]
+    },
+    {
+      "frame": 12,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "17"
+      ]
+    },
+    {
+      "frame": 14,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "18"
+      ]
+    },
+    {
+      "frame": 15.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "19"
+      ]
+    },
+    {
+      "frame": 17,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "20"
+      ]
+    },
+    {
+      "frame": 19,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "4"
+      ]
+    }
+  ]
+}

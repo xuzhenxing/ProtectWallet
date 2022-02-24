@@ -1,0 +1,153 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_42_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 20.016666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            },
+            {
+              "frame": 15,
+              "value": false
+            }
+          ]
+        }
+      },
+      "phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -667.509
+            },
+            {
+              "frame": 14.666666666666666,
+              "value": -667.509
+            },
+            {
+              "frame": 20,
+              "value": 1500
+            }
+          ]
+        }
+      },
+      "Level_42Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -600
+            },
+            {
+              "frame": 14.666666666666666,
+              "value": -600
+            },
+            {
+              "frame": 20.016666666666666,
+              "value": 1600
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "4"
+      ]
+    },
+    {
+      "frame": 3,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "5"
+      ]
+    },
+    {
+      "frame": 5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "6"
+      ]
+    },
+    {
+      "frame": 7,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "7"
+      ]
+    },
+    {
+      "frame": 9,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "8"
+      ]
+    },
+    {
+      "frame": 11,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "9"
+      ]
+    },
+    {
+      "frame": 13,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "10"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

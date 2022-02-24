@@ -1,0 +1,111 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_38_true2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 14,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            },
+            {
+              "frame": 5.5,
+              "value": false
+            },
+            {
+              "frame": 6.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 14,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                46.107,
+                235.314,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "sound": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "9"
+      ]
+    },{
+      "frame": 1.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "9"
+      ]
+    },
+    {
+      "frame": 6,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "10"
+      ]
+    },{
+      "frame": 10,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "21"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

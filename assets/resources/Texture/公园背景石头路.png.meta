@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "22edcf6f-3412-4c16-a5dc-951905ba30e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 125,
+  "height": 124,
+  "platformSettings": {},
+  "subMetas": {
+    "公园背景石头路": {
+      "ver": "1.0.4",
+      "uuid": "4d4b60eb-5671-465c-8a70-1282aabf28de",
+      "rawTextureUuid": "22edcf6f-3412-4c16-a5dc-951905ba30e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 125,
+      "height": 124,
+      "rawWidth": 125,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_40_start1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "teacher": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -197.573
+            },
+            {
+              "frame": 3,
+              "value": 152.055
+            }
+          ]
+        }
+      },
+      "Level40Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 300
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 767.167
+            },
+            {
+              "frame": 3,
+              "value": 477.315
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "badMan/badqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.9833333333333334,
+              "value": true
+            },
+            {
+              "frame": 5.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.8,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "1"
+      ]
+    }
+  ]
+}

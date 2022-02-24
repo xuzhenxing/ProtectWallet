@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_36_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 13.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 6,
+              "value": false
+            },
+            {
+              "frame": 10,
+              "value": true
+            },
+            {
+              "frame": 13.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.5,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "7"
+      ]
+    },
+    {
+      "frame": 9.5,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "5"
+      ]
+    },
+    {"frame":2,"func":"ShowUIWrong","params":[]}
+  ]
+}

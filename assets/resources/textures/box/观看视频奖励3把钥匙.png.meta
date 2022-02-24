@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cb19408c-0238-4238-9697-67e1a3b7eccf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 232,
+  "height": 23,
+  "platformSettings": {},
+  "subMetas": {
+    "观看视频奖励3把钥匙": {
+      "ver": "1.0.4",
+      "uuid": "a5d5af09-0453-484d-8af4-a528de909219",
+      "rawTextureUuid": "cb19408c-0238-4238-9697-67e1a3b7eccf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 232,
+      "height": 23,
+      "rawWidth": 232,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

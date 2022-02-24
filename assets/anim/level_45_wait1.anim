@@ -1,0 +1,226 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_45_wait1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.366666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            },
+            {
+              "frame": 8.016666666666667,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                64.199,
+                238.365,
+                0
+              ]
+            },
+            {
+              "frame": 4.966666666666667,
+              "value": [
+                64.199,
+                238.365,
+                0
+              ]
+            },
+            {
+              "frame": 5,
+              "value": [
+                127.044,
+                278.65,
+                0
+              ]
+            },
+            {
+              "frame": 8.2,
+              "value": [
+                127.044,
+                278.65,
+                0
+              ]
+            },
+            {
+              "frame": 8.366666666666667,
+              "value": [
+                64.199,
+                238.365,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "猪脚/Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.3,
+                "y": 0.3
+              }
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.7,
+                "y": 0.7
+              }
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "bb94630f-629c-45a2-a7ee-646a00fdaad1"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "猪脚/Phone/1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5166666666666667,
+              "value": [
+                0,
+                -455.732,
+                0
+              ]
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.5166666666666667,
+                "value": {
+                  "__uuid__": "8d35786c-dad5-4d60-b3a9-45c8e7ae5929"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "猪脚/Phone/2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/Phone/3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/Phone/6": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/Phone/5": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/Phone/4": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 3.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "frame": 5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    }
+  ]
+}

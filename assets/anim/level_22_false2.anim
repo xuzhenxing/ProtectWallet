@@ -1,0 +1,387 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_22_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -750
+            }
+          ]
+        }
+      },
+      "跑步机": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -760
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -54
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "水泥人": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": true
+            }
+          ]
+        }
+      },
+      "水泥人碎片": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "倒水泥": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "倒水泥/水泥": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -63.823,
+                -37.106,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "风": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "锤子": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "水泥人碎片/碎片3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -55.876,
+                -122.536,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -95.256,
+                -156.994,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "水泥人碎片/碎片": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                11.918,
+                150.651,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                6.995,
+                -163.161,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "水泥人碎片/碎片4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                80.484,
+                -131.961,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                107.558,
+                -163.958,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "水泥人碎片/碎片1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -45.705,
+                21.602,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                -124.466,
+                -164.224,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": -74
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "水泥人碎片/碎片2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                45.923,
+                8.797,
+                0
+              ]
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": [
+                123.453,
+                -164.722,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 81
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "蜘蛛": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 915.514
+            },
+            {
+              "frame": 2,
+              "value": 125.567
+            }
+          ]
+        }
+      },
+      "net": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.016666666666666666,
+              "value": [
+                -746.174,
+                -31.484,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0.016666666666666666,
+              "value": false
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8333333333333334,
+      "func": "ShowUIWrong",
+      "params": []
+    }
+  ]
+}

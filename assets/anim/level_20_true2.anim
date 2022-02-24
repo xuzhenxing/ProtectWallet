@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"level_20_true2","_duration":2,"curveData":{"paths":{"Main Camera":{"props":{"x":[{"frame":0,"value":778.229}]}},"猪脚":{"props":{"x":[{"frame":0,"value":700},{"frame":2,"value":1050}]}},"猪脚/气泡":{"props":{"active":[{"frame":0,"value":false}]}}}},"events":[{"frame":0.016666666666666666,"func":"ShowUIRight","params":[]}]}

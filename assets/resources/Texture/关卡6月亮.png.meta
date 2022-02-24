@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "357b8842-19d0-4641-b518-8986da5350c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 414,
+  "height": 416,
+  "platformSettings": {},
+  "subMetas": {
+    "关卡6月亮": {
+      "ver": "1.0.4",
+      "uuid": "9eee041c-f794-435a-881c-3252a2243a3a",
+      "rawTextureUuid": "357b8842-19d0-4641-b518-8986da5350c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 414,
+      "height": 416,
+      "rawWidth": 414,
+      "rawHeight": 416,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

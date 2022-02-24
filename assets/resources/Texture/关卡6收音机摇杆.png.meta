@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e08d5a95-5d21-434a-a8cd-d65aef961aae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 85,
+  "platformSettings": {},
+  "subMetas": {
+    "关卡6收音机摇杆": {
+      "ver": "1.0.4",
+      "uuid": "c0205202-679f-47ec-b494-47ca5ed081b2",
+      "rawTextureUuid": "e08d5a95-5d21-434a-a8cd-d65aef961aae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 85,
+      "rawWidth": 75,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

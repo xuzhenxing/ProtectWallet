@@ -1,0 +1,103 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_28_true3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "airPlane": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.2,
+                "y": 0.2
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "x": [
+            {
+              "frame": 1,
+              "value": 2200
+            },
+            {
+              "frame": 2,
+              "value": 2431.138
+            },
+            {
+              "frame": 3,
+              "value": 2430
+            }
+          ],
+          "y": [
+            {
+              "frame": 1,
+              "value": 374.719
+            },
+            {
+              "frame": 2,
+              "value": 533.655
+            }
+          ]
+        }
+      },
+      "airPlane/airPlaneRotate/line": {
+        "props": {
+          "active": [
+            {
+              "frame": 1,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            }
+          ]
+        }
+      },
+      "fire": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "fire/fire1/smoke1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 50
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIRight","params":[]}]
+}

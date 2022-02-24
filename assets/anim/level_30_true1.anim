@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_30_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Level_30Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": 170
+            },
+            {
+              "frame": 4,
+              "value": 1460
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.5,
+              "value": 80
+            },
+            {
+              "frame": 4,
+              "value": 1300
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心/爱心": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIRight","params":[]}]
+}

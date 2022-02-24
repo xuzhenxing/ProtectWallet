@@ -1,0 +1,178 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_15_false1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -750
+            },
+            {
+              "frame": 2,
+              "value": -750
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -859.222
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": -1
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "猪脚/气泡/Label": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "喷口水": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.75,
+              "value": true
+            },
+            {
+              "frame": 0.9,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.75,
+              "value": -739.669
+            },
+            {
+              "frame": 0.9,
+              "value": -803.247
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.75,
+                "value": {
+                  "__uuid__": "6cbd6355-80fb-48d2-99cc-aa745fd453d8"
+                }
+              },
+              {
+                "frame": 0.8,
+                "value": {
+                  "__uuid__": "cb51b77d-bffe-4ced-ae60-6b6dfcf33e6b"
+                }
+              },
+              {
+                "frame": 0.85,
+                "value": {
+                  "__uuid__": "91b8da2a-f57a-4c57-b9f6-934f10eb36cc"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "羊驼/爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 1,
+              "value": true
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": -1
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心/爱心": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "e069e4f9-e2c8-4b67-be57-37809f553eb0"
+                }
+              },
+              {
+                "frame": 0.9666666666666667
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "d4966325-1a56-489f-9e11-ceae78d9e9ae"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowUIWrong",
+      "params": []
+    }
+  ]
+}

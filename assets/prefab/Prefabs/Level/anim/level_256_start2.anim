@@ -1,0 +1,80 @@
+{
+    "__type__": "cc.AnimationClip",
+    "_name": "level_25_start2",
+    "_duration": 4.5,
+    "curveData": {
+        "paths": {
+            "Main Camera": {
+                "props": {
+                    "x": [{
+                        "frame": 0,
+                        "value": 750
+                    }, {
+                        "frame": 2.5,
+                        "value": 1500
+                    }]
+                }
+            },
+            "猪脚": {
+                "props": {
+                    "x": [{
+                        "frame": 0,
+                        "value": 750
+                    }, {
+                        "frame": 2.5,
+                        "value": 1310
+                    }]
+                }
+            },
+            "风": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }]
+                }
+            },
+            "猪脚/气泡": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }, {
+                        "frame": 2.5,
+                        "value": true
+                    }, {
+                        "frame": 4.5,
+                        "value": false
+                    }]
+                }
+            },
+            "鼹鼠": {
+                "props": {
+                    "y": [{
+                        "frame": 0,
+                        "value": -283.763
+                    }]
+                }
+            },
+            "猪脚/气泡爱心": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }]
+                }
+            }
+        }
+    },
+     "events": [{
+        "frame": 1,
+        "func": "ShowBubble",
+        "params": ["0", "1"]
+    },{
+        "frame": 3.5,
+        "func": "ShowDragon",
+        "params": ["0"]
+    }
+    ]
+
+}

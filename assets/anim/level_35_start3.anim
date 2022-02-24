@@ -1,0 +1,98 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_35_start3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.533333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 3150
+            }
+          ]
+        }
+      },
+      "Level_35Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 3350
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "police/policeqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 8.533333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "girl": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "9"
+      ]
+    },
+    {
+      "frame": 5.5,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "10"
+      ]
+    }
+  ]
+}

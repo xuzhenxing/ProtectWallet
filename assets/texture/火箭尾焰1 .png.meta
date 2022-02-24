@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "657ea158-76b7-4aff-9df1-03692c2dc41e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 396,
+  "height": 969,
+  "platformSettings": {},
+  "subMetas": {
+    "火箭尾焰1 ": {
+      "ver": "1.0.4",
+      "uuid": "36b48426-7282-457f-a962-904ebb69b8eb",
+      "rawTextureUuid": "657ea158-76b7-4aff-9df1-03692c2dc41e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 396,
+      "height": 969,
+      "rawWidth": 396,
+      "rawHeight": 969,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

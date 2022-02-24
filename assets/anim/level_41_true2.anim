@@ -1,0 +1,184 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_41_true2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "badman": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1050
+            },
+            {
+              "frame": 3.316666666666667,
+              "value": 1050
+            },
+            {
+              "frame": 6,
+              "value": 1987.242
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3.316666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 6,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 8.516666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "badman/badqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Level_41Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 850
+            },
+            {
+              "frame": 5,
+              "value": 850
+            },
+            {
+              "frame": 9,
+              "value": 2100
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 700
+            },
+            {
+              "frame": 5,
+              "value": 700
+            },
+            {
+              "frame": 9,
+              "value": 2100
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "17"
+      ]
+    },
+    {
+      "frame": 1.8,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "30"
+      ]
+    },
+    
+    {
+      "frame": 3,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "18"
+      ]
+    },
+    {
+      "frame": 6,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "32"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

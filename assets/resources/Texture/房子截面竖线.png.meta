@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "38f1ebe9-fe08-43c1-890b-6ac143fa4830",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 60,
+  "platformSettings": {},
+  "subMetas": {
+    "房子截面竖线": {
+      "ver": "1.0.4",
+      "uuid": "00567bfa-4452-4c79-bd57-735387cdfa4d",
+      "rawTextureUuid": "38f1ebe9-fe08-43c1-890b-6ac143fa4830",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 60,
+      "rawWidth": 60,
+      "rawHeight": 60,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

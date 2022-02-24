@@ -1,0 +1,124 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_41_start2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Level_41Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 850
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 700
+            }
+          ]
+        }
+      },
+      "badman": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1700
+            },
+            {
+              "frame": 3,
+              "value": 1050.858
+            },
+            {
+              "frame": 4.466666666666667,
+              "value": 1050
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "badman/badqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 8,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "nvde": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.8,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "11"
+      ]
+    },
+    {
+      "frame": 5,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "12"
+      ]
+    }
+  ]
+}

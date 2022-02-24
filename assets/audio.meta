@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.1",
+  "uuid": "46c7ded4-c0ea-4ed9-9eb5-cd825e1f3f1b",
+  "isSubpackage": true,
+  "subpackageName": "audio",
+  "subMetas": {}
+}

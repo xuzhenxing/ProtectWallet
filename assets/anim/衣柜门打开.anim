@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"衣柜门打开","_duration":0.16666666666666666,"curveData":{"paths":{"衣柜门右":{"props":{"scaleX":[{"frame":0,"value":1},{"frame":0.16666666666666666,"value":-1}]}},"衣柜门左":{"props":{"scaleX":[{"frame":0,"value":1},{"frame":0.16666666666666666,"value":-1}]}}}}}

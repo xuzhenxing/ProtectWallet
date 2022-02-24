@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d27a68ea-0198-42e1-af44-ed806724ce12",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 46,
+  "height": 507,
+  "platformSettings": {},
+  "subMetas": {
+    "电梯门框切割1": {
+      "ver": "1.0.4",
+      "uuid": "7389fcbe-54be-452e-8f8e-a4ddfd9749ab",
+      "rawTextureUuid": "d27a68ea-0198-42e1-af44-ed806724ce12",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 46,
+      "height": 507,
+      "rawWidth": 46,
+      "rawHeight": 507,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

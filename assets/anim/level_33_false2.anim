@@ -1,0 +1,253 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_33_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bankATMin/qipaotitle": {
+        "props": {
+          "active": [{
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6.5,
+              "value": true
+            },
+            {
+              "frame": 8,
+              "value": false
+            }
+          ]
+        }
+      },
+      "thief": {
+        "props": {
+          "active": [{
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5,
+              "value": true
+            },
+            {
+              "frame": 7,
+              "value": false
+            }
+          ],
+          "scale": [{
+              "frame": 5.016666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 6.983333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 7,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ],
+          "x": [{
+              "frame": 5.016666666666667,
+              "value": 1395.125
+            },
+            {
+              "frame": 5.516666666666667,
+              "value": 1476.025
+            },
+            {
+              "frame": 7,
+              "value": 2073.785
+            }
+          ]
+        }
+      },
+      "thief/PhoneQipao": {
+        "props": {
+          "active": [{
+            "frame": 3.5,
+            "value": true
+          }],
+          "x": [{
+            "frame": 3.5,
+            "value": -103.26
+          }],
+          "scale": [{
+            "frame": 3.5,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": -1,
+              "y": 1
+            }
+          }]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [{
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 7,
+              "value": true
+            },
+            {
+              "frame": 8.983333333333333,
+              "value": false
+            }
+          ],
+          "scale": [{
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 8.983333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 9,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": [{
+              "frame": 0,
+              "value": [
+                -100,
+                278,
+                0
+              ]
+            },
+            {
+              "frame": 8.983333333333333,
+              "value": [
+                -100,
+                278,
+                0
+              ]
+            },
+            {
+              "frame": 9,
+              "value": [
+                119.145,
+                278,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Level_33Camera": {
+        "props": {
+          "x": []
+        }
+      },
+      "thief/PhoneQipao1": {
+        "props": {
+          "active": [{
+            "frame": 0,
+            "value": false
+          }]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [{
+            "frame": 0,
+            "value": 1000
+          }]
+        }
+      },
+      "猪脚/qipao/Label": {
+        "props": {
+          "scale": [{
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 8.983333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 9,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+
+    {
+      "frame": 3.333,
+      "func": "ShowBubble",
+      "params": [
+        "3",
+        "8"
+      ]
+    }, {
+      "frame": 5.9,
+      "func": "ShowBubble",
+      "params": [
+        "5",
+        "11"
+      ]
+    }, {
+      "frame": 7,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "2"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIWrong",
+      "params": []
+    }
+  ]
+}

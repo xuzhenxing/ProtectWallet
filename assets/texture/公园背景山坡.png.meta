@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d5653fd0-aea0-45aa-a016-34e1f8bd57f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 747,
+  "height": 257,
+  "platformSettings": {},
+  "subMetas": {
+    "公园背景山坡": {
+      "ver": "1.0.4",
+      "uuid": "28af7e95-1039-4af1-91e4-b2b0a0d44336",
+      "rawTextureUuid": "d5653fd0-aea0-45aa-a016-34e1f8bd57f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 747,
+      "height": 257,
+      "rawWidth": 747,
+      "rawHeight": 257,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

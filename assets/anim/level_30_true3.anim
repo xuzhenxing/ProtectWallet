@@ -1,0 +1,295 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_30_true3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "desk/suipian/vase4": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.5,
+              "value": 162.884
+            },
+            {
+              "frame": 3,
+              "value": -17.936
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.5,
+              "value": -269.537
+            },
+            {
+              "frame": 3,
+              "value": -10.765
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 186.41999999999996
+            }
+          ]
+        }
+      },
+      "desk/suipian/vase3": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.5,
+              "value": 37.475
+            },
+            {
+              "frame": 3,
+              "value": -8.972
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.5,
+              "value": -348.95
+            },
+            {
+              "frame": 3,
+              "value": -38.444
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": -33.708
+            }
+          ]
+        }
+      },
+      "desk/suipian/vase5": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.5,
+              "value": -129.442
+            },
+            {
+              "frame": 3,
+              "value": -9.287
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.5,
+              "value": -289.904
+            },
+            {
+              "frame": 3,
+              "value": 58.541
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.5,
+              "value": -94
+            },
+            {
+              "frame": 3,
+              "value": -180.496
+            }
+          ]
+        }
+      },
+      "desk/suipian/vase6": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.5,
+              "value": 79.313
+            },
+            {
+              "frame": 3,
+              "value": -18.347
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.5,
+              "value": -274.666
+            },
+            {
+              "frame": 3,
+              "value": 32.907
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 138.88799999999998
+            }
+          ]
+        }
+      },
+      "desk/suipian/vase1": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.5,
+              "value": -24.821
+            },
+            {
+              "frame": 3,
+              "value": 14.612
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.5,
+              "value": -296.395
+            },
+            {
+              "frame": 3,
+              "value": 7.012
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": -87.825
+            }
+          ]
+        }
+      },
+      "desk/suipian/flower1": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.5,
+              "value": -160.382
+            },
+            {
+              "frame": 3,
+              "value": -38.807
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.5,
+              "value": -309.595
+            },
+            {
+              "frame": 3,
+              "value": 69.402
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": -89.164
+            }
+          ]
+        }
+      },
+      "desk/suipian/flower2": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.5,
+              "value": -129.528
+            },
+            {
+              "frame": 3,
+              "value": 12.26
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.5,
+              "value": -282.856
+            },
+            {
+              "frame": 3,
+              "value": 83.297
+            }
+          ],
+          "angle": [
+            {
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": -94.298
+            }
+          ]
+        }
+      },
+      "desk/suipian": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "desk/flower": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 3,
+              "value": 2500
+            },
+            {
+              "frame": 5,
+              "value": 3356.974
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIRight","params":[]}]
+}

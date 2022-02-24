@@ -1,0 +1,288 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_31_true3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 10.516666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "door/door3": {
+        "props": {
+          "active": [
+            {
+              "frame": 4,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 5.5,
+              "value": [
+                -397.976,
+                178.6,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                -412.515,
+                178.6,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 5.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0.8
+              }
+            }
+          ]
+        }
+      },
+      "door/brokedoor": {
+        "props": {
+          "active": [
+            {
+              "frame": 4,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": false
+            }
+          ]
+        }
+      },
+      "door/brokedoor1": {
+        "props": {
+          "active": [
+            {
+              "frame": 4,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.5,
+              "value": true
+            },
+            {
+              "frame": 5.033333333333333,
+              "value": false
+            },
+            {
+              "frame": 8,
+              "value": true
+            },
+            {
+              "frame": 9,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -160.818
+            },
+            {
+              "frame": 8.016666666666667,
+              "value": -160.818
+            },
+            {
+              "frame": 10.516666666666667,
+              "value": 520.662
+            }
+          ]
+        }
+      },
+      "door2": {
+        "comps": {},
+        "props": {
+          "active": [
+            {
+              "frame": 4,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 5.5,
+              "value": [
+                275.14,
+                -20,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                303.18,
+                -20,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 5.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "man": {
+        "props": {
+          "x": [
+            {
+              "frame": 5.016666666666667,
+              "value": 669.085
+            },
+            {
+              "frame": 7,
+              "value": 28.007
+            },
+            {
+              "frame": 8,
+              "value": 28.007
+            },
+            {
+              "frame": 9.95,
+              "value": 654.398
+            }
+          ],
+          "scale": [
+            {
+              "frame": 8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 8.016666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "man/New Sprite": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 7,
+              "value": true
+            },
+            {
+              "frame": 8,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.3,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "4"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIRight",
+      "params": []
+    },
+    {
+      "frame": 6,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "5"
+      ]
+    },
+    {
+      "frame": 7.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "5"
+      ]
+    },{
+      "frame": 7,
+      "func": "ShowDragon",
+      "params": [
+        3
+      ]
+    },
+    {
+      "frame": 8,
+      "func": "ShowDragon",
+      "params": [
+        3
+      ]
+    },
+    {
+      "frame": 8,
+      "func": "ShowDragon",
+      "params": [
+        0
+      ]
+    }
+  ]
+}

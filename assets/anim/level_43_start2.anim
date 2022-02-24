@@ -1,0 +1,184 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_43_start2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "BadMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 9,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                82.901,
+                235.62,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -316.866
+            }
+          ]
+        }
+      },
+      "Level_43Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -200
+            }
+          ]
+        }
+      },
+      "BadMan1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "BadMan2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Boy": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 1294.332
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "KTV": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "10"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "11"
+      ]
+    },
+    {
+      "frame": 4,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "12"
+      ]
+    },
+    {
+      "frame": 6,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "13"
+      ]
+    },
+    {
+      "frame": 7.7,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "4"
+      ]
+    }
+  ]
+}

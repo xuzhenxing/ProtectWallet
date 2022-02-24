@@ -1,0 +1,121 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_32_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 7,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "trash": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 1680
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1915.567
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 910
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 428.716
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -23
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -90
+            }
+          ]
+        }
+      },
+      "fireCtrl/groundwater": {
+        "props": {
+          "active": [
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "fireCtrl": {
+        "props": {
+          "active": [
+            {
+              "frame": 2.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 3,
+              "value": 1560
+            },
+            {
+              "frame": 7,
+              "value": 2950
+            }
+          ]
+        }
+      },
+      "fire": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Level_32Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 3,
+              "value": 1800
+            },
+            {
+              "frame": 7,
+              "value": 3200
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIRight","params":[]}]
+}

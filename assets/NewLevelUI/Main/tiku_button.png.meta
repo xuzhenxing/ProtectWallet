@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2c6eba90-ce0d-47ed-98e3-6bcf864fb1a0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 73,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "tiku_button": {
+      "ver": "1.0.4",
+      "uuid": "553882cf-b6a6-4439-b0d2-5ce062aaccac",
+      "rawTextureUuid": "2c6eba90-ce0d-47ed-98e3-6bcf864fb1a0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 71,
+      "height": 93,
+      "rawWidth": 73,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

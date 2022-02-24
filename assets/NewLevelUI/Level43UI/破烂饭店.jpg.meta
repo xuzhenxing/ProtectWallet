@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c930bca8-57de-4f5a-a911-6710f0299574",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "破烂饭店": {
+      "ver": "1.0.4",
+      "uuid": "74ec21f8-fc74-4d31-81a0-596b6e538f08",
+      "rawTextureUuid": "c930bca8-57de-4f5a-a911-6710f0299574",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 1024,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

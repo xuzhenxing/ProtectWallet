@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_33_wait3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "thief": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1800
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "x": [
+            {
+              "frame": 1,
+              "value": 293.244
+            }
+          ],
+          "y": [
+            {
+              "frame": 1,
+              "value": 344.419
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Level_33Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2250
+            }
+          ]
+        }
+      },
+      "猪脚/qipao23": {
+        "props": {
+          "active": [
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "3"
+      ]
+    }
+  ]
+}

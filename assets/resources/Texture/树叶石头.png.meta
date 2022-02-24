@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "3862da4c-eeb2-4fbb-966a-72ce1f65b390",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 429,
+  "height": 130,
+  "platformSettings": {},
+  "subMetas": {
+    "树叶石头": {
+      "ver": "1.0.4",
+      "uuid": "91ff1a01-4ec2-4520-88c2-a48417a99bb4",
+      "rawTextureUuid": "3862da4c-eeb2-4fbb-966a-72ce1f65b390",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 429,
+      "height": 130,
+      "rawWidth": 429,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_21_start2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -750
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -755
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": -180
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -54
+            }
+          ]
+        }
+      },
+      "警报灯": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": true
+            }
+          ]
+        }
+      },
+      "洞": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": true
+            }
+          ]
+        }
+      },
+      "漏洞气流": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": true
+            }
+          ]
+        }
+      },
+      "碎片11": {
+        "props": {
+          "active": [
+            {
+              "frame": 2.816666666666667,
+              "value": false
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2.8333333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.249,
+                "y": 1.249
+              }
+            },
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "毯子2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

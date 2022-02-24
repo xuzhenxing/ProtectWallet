@@ -1,0 +1,139 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_41_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 12,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            },
+            {
+              "frame": 4,
+              "value": true
+            },
+            {
+              "frame": 11.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -271.426
+            },
+            {
+              "frame": 6,
+              "value": -271.426
+            },
+            {
+              "frame": 12,
+              "value": 700
+            }
+          ]
+        }
+      },
+      "qipaobu": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Level_41Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 12,
+              "value": 850
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "7"
+      ]
+    },
+    {
+      "frame": 2.7,
+      "func": "ShowBubble",
+      "params": [
+        "4",
+        "8"
+      ]
+    },
+    {
+      "frame": 4,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "9"
+      ]
+    },
+    {
+      "frame": 6,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "28"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

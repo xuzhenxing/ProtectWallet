@@ -1,0 +1,173 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_28_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "280022": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2300
+            },
+            {
+              "frame": 1,
+              "value": 2432.978
+            },
+            {
+              "frame": 2,
+              "value": 2220.723
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 17.708
+            },
+            {
+              "frame": 1,
+              "value": 735.945
+            },
+            {
+              "frame": 2,
+              "value": 479.582
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 94.745
+            },
+            {
+              "frame": 2,
+              "value": 132.553
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "airPlane": {
+        "props": {
+          "active": [
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      },
+      "fire": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "smoke": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 2,
+                "value": {
+                  "__uuid__": "b5244a82-dbe3-4113-957c-297772f322d7"
+                }
+              },
+              {
+                "frame": 2.1666666666666665,
+                "value": {
+                  "__uuid__": "bac9b316-9d2e-4dcb-b097-1d414610d89d"
+                }
+              },
+              {
+                "frame": 2.3333333333333335,
+                "value": {
+                  "__uuid__": "51a28df0-8aa3-496b-95b1-db13d26e0c62"
+                }
+              },
+              {
+                "frame": 2.5,
+                "value": {
+                  "__uuid__": "39e8c275-ea41-4421-b65d-047fdbe348a1"
+                }
+              },
+              {
+                "frame": 2.6666666666666665,
+                "value": {
+                  "__uuid__": "01f7674d-1845-4f2f-85a0-dc15505f2ebc"
+                }
+              },
+              {
+                "frame": 2.8333333333333335,
+                "value": {
+                  "__uuid__": "c73d2ed2-1561-488a-a335-e22c5d226347"
+                }
+              },
+              {
+                "frame": 3,
+                "value": {
+                  "__uuid__": "594d044c-4e31-4678-bab4-d6d8a3340ea8"
+                }
+              },
+              {
+                "frame": 3.1666666666666665,
+                "value": {
+                  "__uuid__": "a12142b0-ef0e-424f-bddd-5b17679b2959"
+                }
+              },
+              {
+                "frame": 3.3333333333333335,
+                "value": {
+                  "__uuid__": "38cd57c7-24f4-4e6f-96eb-86fecc481c46"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [ {"frame":2,"func":"ShowUIWrong","params":[]}]
+}

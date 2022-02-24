@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_44_start2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -181.399
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": 750
+            }
+          ]
+        }
+      },
+      "Level_44Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": 850
+            }
+          ]
+        }
+      },
+      "trush": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone": {
+        "props": {
+          "x": [
+            {
+              "frame": 3.0166666666666666,
+              "value": 994.177
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 4.5,
+              "value": true
+            },
+            {
+              "frame": 9.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone/finger": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "badMan1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 3,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },
+    {
+      "frame": 4,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "frame": 7,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "9"
+      ]
+    }
+  ]
+}

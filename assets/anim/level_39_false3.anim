@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_39_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.516666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "MiddlePhone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5.483333333333333,
+              "value": true
+            },
+            {
+              "frame": 8.516666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "MiddlePhone/Label1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            }
+          ]
+        }
+      },
+      "MiddlePhone/Label2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "6"
+      ]
+    },{
+      "frame": 5.7,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "6"
+      ]
+    },
+    {"frame":2,"func":"ShowUIWrong","params":[]}
+  ]
+}

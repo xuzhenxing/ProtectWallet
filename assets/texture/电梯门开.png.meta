@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d6dd9436-311a-4e4c-bf27-da9047c85d1c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 184,
+  "height": 381,
+  "platformSettings": {},
+  "subMetas": {
+    "电梯门开": {
+      "ver": "1.0.4",
+      "uuid": "0d9eebac-3869-47d4-aa73-47ab1d3b99c8",
+      "rawTextureUuid": "d6dd9436-311a-4e4c-bf27-da9047c85d1c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 184,
+      "height": 381,
+      "rawWidth": 184,
+      "rawHeight": 381,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

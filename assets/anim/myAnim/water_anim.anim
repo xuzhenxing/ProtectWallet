@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "water_anim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 30,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "19 #3378": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2456.007
+            },
+            {
+              "frame": 14,
+              "value": -6305.741
+            }
+          ]
+        }
+      },
+      "19 #3378 copy": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 10339.008
+            },
+            {
+              "frame": 9.083333333333334,
+              "value": 6263.155
+            },
+            {
+              "frame": 14,
+              "value": 3179.346
+            },
+            {
+              "frame": 30,
+              "value": -7018.89
+            }
+          ]
+        }
+      },
+      "19 #3378 copy1": {
+        "props": {
+          "x": [
+            {
+              "frame": 14,
+              "value": 13100.666
+            },
+            {
+              "frame": 30,
+              "value": 2525.959
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

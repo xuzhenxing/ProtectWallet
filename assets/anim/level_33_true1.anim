@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_33_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -120
+            },
+            {
+              "frame": 5.666666666666667,
+              "value": 1000
+            }
+          ]
+        }
+      },
+      "bankATM": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 100
+            }
+          ]
+        }
+      },
+      "Level_33Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 6,
+              "value": 1150
+            }
+          ]
+        }
+      },
+      "bankATMin/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 7,
+              "value": true
+            },
+            {
+              "frame": 9,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 6.6666,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "4"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

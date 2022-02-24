@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a329b2a5-4809-4dd5-a7ab-451348999a63",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "关卡6蝙蝠开": {
+      "ver": "1.0.4",
+      "uuid": "5f52d6c8-e4f4-41db-8861-67d4882935f1",
+      "rawTextureUuid": "a329b2a5-4809-4dd5-a7ab-451348999a63",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": -8.5,
+      "trimX": 17,
+      "trimY": 99,
+      "width": 255,
+      "height": 119,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

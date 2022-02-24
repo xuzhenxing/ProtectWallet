@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "21591b91-e2f7-4ead-b59f-54cae4ed1ef0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 164,
+  "height": 109,
+  "platformSettings": {},
+  "subMetas": {
+    "other_other_草丛": {
+      "ver": "1.0.4",
+      "uuid": "9f198a4d-1943-467e-bfd9-403e5d56c075",
+      "rawTextureUuid": "21591b91-e2f7-4ead-b59f-54cae4ed1ef0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 164,
+      "height": 109,
+      "rawWidth": 164,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

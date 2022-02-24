@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "93715d72-9b3d-4bfa-8dc6-0e66b3579cb3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 215,
+  "height": 179,
+  "platformSettings": {},
+  "subMetas": {
+    "第12关便利店门口装饰1": {
+      "ver": "1.0.4",
+      "uuid": "664a8af3-0fda-4832-af83-e4924d5d37b5",
+      "rawTextureUuid": "93715d72-9b3d-4bfa-8dc6-0e66b3579cb3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 215,
+      "height": 179,
+      "rawWidth": 215,
+      "rawHeight": 179,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

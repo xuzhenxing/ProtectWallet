@@ -1,0 +1,9 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ProtectWallet",
+  "uuid": "b58a7d23-678b-4844-8940-f5c358178983",
+  "version": "2.3.3",
+  "id": "82c403f3-7754-4604-9368-4cb6388b5d44",
+  "isNew": false
+}

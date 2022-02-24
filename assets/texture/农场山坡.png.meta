@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "23d8fa78-7d43-4f0b-93fa-cec784ede37c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 750,
+  "height": 257,
+  "platformSettings": {},
+  "subMetas": {
+    "农场山坡": {
+      "ver": "1.0.4",
+      "uuid": "444aeb3b-af8d-4999-9661-aa2d9d1268a8",
+      "rawTextureUuid": "23d8fa78-7d43-4f0b-93fa-cec784ede37c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 750,
+      "height": 257,
+      "rawWidth": 750,
+      "rawHeight": 257,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

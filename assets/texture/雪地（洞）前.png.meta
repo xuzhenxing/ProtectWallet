@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0d108240-a8d7-4c39-9470-85acad0dfb06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 241,
+  "height": 97,
+  "platformSettings": {},
+  "subMetas": {
+    "雪地（洞）前": {
+      "ver": "1.0.4",
+      "uuid": "1cd7441f-ee6b-4687-bbe0-2d25fa78cc0f",
+      "rawTextureUuid": "0d108240-a8d7-4c39-9470-85acad0dfb06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 241,
+      "height": 97,
+      "rawWidth": 241,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

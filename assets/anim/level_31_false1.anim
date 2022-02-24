@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_31_false1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "dog": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 43
+            },
+            {
+              "frame": 3,
+              "value": 44
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame":1,
+      "func":"ShowBubble",
+      "params":["0","1"]
+    },
+    {"frame":2,"func":"ShowUIWrong","params":[]}
+  ]
+}

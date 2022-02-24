@@ -1,0 +1,388 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_31_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "雷劈": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/shandian": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "e0cad7df-4961-40b8-a715-fc21fe77b7ea"
+                }
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": {
+                  "__uuid__": "106e917a-faf8-4dc6-beee-f428bd077d10"
+                }
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": {
+                  "__uuid__": "06f6eee2-6886-4d89-bd89-a093543c11d9"
+                }
+              },
+              {
+                "frame": 1.2166666666666666,
+                "value": {
+                  "__uuid__": "2dc9d7e6-7f67-4d8c-88a0-334783ce8824"
+                }
+              },
+              {
+                "frame": 1.4333333333333333,
+                "value": {
+                  "__uuid__": "7d0a0084-52be-4865-a424-06cec94a466f"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/dianqiu": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "f7ca3661-e7df-41d3-982a-2b6e8076799b"
+                }
+              },
+              {
+                "frame": 0.9166666666666666,
+                "value": {
+                  "__uuid__": "184a8f34-88e8-40c9-a063-14a7670c2f61"
+                }
+              },
+              {
+                "frame": 1.1333333333333333,
+                "value": {
+                  "__uuid__": "e846fcdc-27e4-4fe9-b0af-a2dcdf4ac3db"
+                }
+              },
+              {
+                "frame": 1.35,
+                "value": {
+                  "__uuid__": "8e3c833c-e2bd-4c35-bdd9-6a0837a84b78"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/glow1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.7166666666666667,
+              "value": 100
+            },
+            {
+              "frame": 1.25,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0.7166666666666667,
+              "value": true
+            },
+            {
+              "frame": 0.9833333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/flash2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "雷劈/雷劈/flash1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.6666666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.2166666666666666,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            },
+            {
+              "frame": 1.2166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "beidian": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -160.818
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 3.5,
+              "value": 250.51
+            },
+            {
+              "frame": 6,
+              "value": 250.51
+            }
+          ]
+        }
+      },
+      "door/door3": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.0166666666666666,
+              "value": [
+                -388.7,
+                178.6,
+                0
+              ]
+            },
+            {
+              "frame": 1.75,
+              "value": [
+                -388.7,
+                178.6,
+                0
+              ]
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": [
+                -401.764,
+                178.6,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.0166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            },
+            {
+              "frame": 1.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.8,
+                "y": 0.8
+              }
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.4,
+                "y": 0.8
+              }
+            }
+          ]
+        }
+      },
+      "door2": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                278.514,
+                -20,
+                0
+              ]
+            },
+            {
+              "frame": 1.75,
+              "value": [
+                278.514,
+                -20,
+                0
+              ]
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": [
+                288.957,
+                -20,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.0166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.75,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.6,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowDragon",
+      "params": [
+        0
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIWrong",
+      "params": []
+    },
+    {
+      "frame": 3.5,
+      "func": "ShowDragon",
+      "params": [
+        0
+      ]
+    }
+  ]
+}

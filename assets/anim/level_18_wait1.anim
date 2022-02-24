@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"level_18_wait1","curveData":{"paths":{"Main Camera":{"props":{"x":[{"frame":0,"value":-850}]}},"猪脚":{"props":{"scaleX":[{"frame":0,"value":-1}],"x":[{"frame":0,"value":-652.399}]}},"僵尸":{"props":{"x":[{"frame":0,"value":-1050}]}},"护栏":{"props":{"active":[{"frame":0,"value":false}]}},"护栏1":{"props":{"active":[{"frame":0,"value":false}]}}}}}

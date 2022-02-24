@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b4b01d18-bb96-4daa-aeca-6b89918dfd44",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 143,
+  "height": 713,
+  "platformSettings": {},
+  "subMetas": {
+    "饭店门2": {
+      "ver": "1.0.4",
+      "uuid": "8c7886cd-af16-4b74-91c9-afa5bc977bc9",
+      "rawTextureUuid": "b4b01d18-bb96-4daa-aeca-6b89918dfd44",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 143,
+      "height": 713,
+      "rawWidth": 143,
+      "rawHeight": 713,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

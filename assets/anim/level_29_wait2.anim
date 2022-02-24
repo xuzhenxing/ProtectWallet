@@ -1,0 +1,184 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_29_wait2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2.5,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0.9166666666666666,
+              "value": -158.115
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.9166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1700
+            }
+          ]
+        }
+      },
+      "猪脚/气泡/Label": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "other/s08 #3298": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 14.338
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": -55.561
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            }
+          ]
+        }
+      },
+      "other/s67 #35491": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1.968
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 14.744
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": -15.085
+            }
+          ]
+        }
+      },
+      "other/s67 #3549": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -205.051
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 51.089
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "other/2222": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -27.795
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 141.845
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 22
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "3"
+      ]
+    }
+  ]
+}

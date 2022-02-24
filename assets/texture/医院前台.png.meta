@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "00822042-4743-4ed0-b723-b15532161fbe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 303,
+  "height": 246,
+  "platformSettings": {},
+  "subMetas": {
+    "医院前台": {
+      "ver": "1.0.4",
+      "uuid": "6c708964-21e5-4e4c-a302-ce6bfb08e288",
+      "rawTextureUuid": "00822042-4743-4ed0-b723-b15532161fbe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 303,
+      "height": 246,
+      "rawWidth": 303,
+      "rawHeight": 246,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

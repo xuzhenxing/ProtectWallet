@@ -1,0 +1,258 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_43_false1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 12.533333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "BadMan/Bad": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 10.516666666666667,
+              "value": true
+            },
+            {
+              "frame": 12.533333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "BadMan": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 763.686
+            },
+            {
+              "frame": 8,
+              "value": 763.686
+            },
+            {
+              "frame": 10.533333333333333,
+              "value": -17.738
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 9.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian/1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian/2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian/3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 4,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian/4": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian/5": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian/6": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 7,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian/7": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 7.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/Liaotian/8": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 8,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.5,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "8"
+      ]
+    },
+     {
+      "frame": 2,
+      "func": "ShowUIWrong",
+      "params": []
+    },{
+      "frame": 7.5,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "9"
+      ]
+    },
+    {
+      "frame": 10,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "9"
+      ]
+    },
+    {
+      "frame": 10.5,
+      "func": "ShowDragon",
+      "params": [
+        "1"
+      ]
+    },
+    {
+      "frame": 10,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    }
+  ]
+}

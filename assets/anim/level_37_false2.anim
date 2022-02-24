@@ -1,0 +1,117 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_37_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                200.609,
+                -326.497,
+                0
+              ]
+            },
+            {
+              "frame": 0.9833333333333333,
+              "value": [
+                601.507,
+                -326.397,
+                0
+              ]
+            },
+            {
+              "frame": 3.033333333333333,
+              "value": [
+                601.507,
+                -326.397,
+                0
+              ]
+            },
+            {
+              "frame": 3.05,
+              "value": [
+                200,
+                -326.497,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "bicycle1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "7"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "8"
+      ]
+    },
+    {"frame":2,"func":"ShowUIWrong","params":[]}
+  ]
+}

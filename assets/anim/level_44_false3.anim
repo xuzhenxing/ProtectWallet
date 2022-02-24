@@ -1,0 +1,220 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_44_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "badMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                2607.939,
+                -268.339,
+                0
+              ]
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": [
+                2607.939,
+                -268.339,
+                0
+              ]
+            },
+            {
+              "frame": 6.016666666666667,
+              "value": [
+                2140.67,
+                -268.339,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "qipaobad": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 6.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 8.016666666666667,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                2054.566,
+                17.962,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 750
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": 1900
+            }
+          ]
+        }
+      },
+      "ATM": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "ATM/New Sprite": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "bankdoor": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bankdoor2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "police": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Level_44Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 850
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": 2000
+            }
+          ]
+        }
+      },
+      "bank": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 3.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "4"
+      ]
+    },
+     {
+      "frame": 2,
+      "func": "ShowUIWrong",
+      "params": []
+    },
+    {
+      "frame": 3,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },{
+      "frame": 5.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "4"
+      ]
+    },
+    {
+      "frame": 6,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    }
+  ]
+}

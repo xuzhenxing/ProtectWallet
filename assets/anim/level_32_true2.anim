@@ -1,0 +1,179 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_32_true2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "car": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 3318.293
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.7,
+                "y": 0.7
+              }
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.7,
+                "y": 0.7
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.7,
+                "y": 0.3
+              }
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 383.759
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 383.759
+            },
+            {
+              "frame": 1,
+              "value": 321.107
+            }
+          ]
+        }
+      },
+      "ball": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": false
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 1411.836
+            },
+            {
+              "frame": 1,
+              "value": 848.499
+            }
+          ]
+        }
+      },
+      "Level_32Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 3200
+            },
+            {
+              "frame": 0.8833333333333333,
+              "value": 3200
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 3250
+            },
+            {
+              "frame": 1,
+              "value": 3200
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 3150
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 3200
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 527
+            },
+            {
+              "frame": 0.8833333333333333,
+              "value": 527
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 550
+            },
+            {
+              "frame": 1,
+              "value": 527
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 500
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 527
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "3"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

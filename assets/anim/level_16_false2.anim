@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_16_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "第16关石头门": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "关上的门": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "打开的门": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -29.461
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": -29.461
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": true
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "蜘蛛": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 181.815
+            },
+            {
+              "frame": 2,
+              "value": 181.815
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": 111.998
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.016666666666666666,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "3"
+      ]
+    },
+    {
+      "frame": 0.6666666666666666,
+      "func": "ShowUIWrong",
+      "params": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_32_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.8333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "hook": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 3322.628
+            },
+            {
+              "frame": 1.25,
+              "value": 3322.628
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 2958.848
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 1069.992
+            },
+            {
+              "frame": 1.25,
+              "value": 815.346
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 815.346
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": 1007.35
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "y": [
+            {
+              "frame": 2.3333333333333335,
+              "value": 422.243
+            },
+            {
+              "frame": 2.8333333333333335,
+              "value": 612.663
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIWrong","params":[]}]
+}

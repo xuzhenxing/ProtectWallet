@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8abfbfaf-1238-434d-b19f-5a5a087c924a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 124,
+  "height": 171,
+  "platformSettings": {},
+  "subMetas": {
+    "动态火焰2": {
+      "ver": "1.0.4",
+      "uuid": "99883929-436b-4e62-87e1-647d6d14f609",
+      "rawTextureUuid": "8abfbfaf-1238-434d-b19f-5a5a087c924a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 124,
+      "height": 171,
+      "rawWidth": 124,
+      "rawHeight": 171,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

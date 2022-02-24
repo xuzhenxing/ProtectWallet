@@ -1,0 +1,256 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_43_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9.533333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "waiter": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 2.0166666666666666,
+              "value": 1602.018
+            },
+            {
+              "frame": 3,
+              "value": 1796.144
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": false
+            },
+            {
+              "frame": 5.033333333333333,
+              "value": true
+            },
+            {
+              "frame": 7,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Level_43Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2050
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2020
+            }
+          ],
+          "scale": [
+            {
+              "frame": 3,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3.033333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Boy": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2280
+            }
+          ]
+        }
+      },
+      "waiter/qipaowaiter": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 5.016666666666667,
+              "value": false
+            },
+            {
+              "frame": 8,
+              "value": true
+            },
+            {
+              "frame": 9.533333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Boy/Boyqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 8,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 8,
+              "value": [
+                105.173,
+                273.438,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "猪脚/qipao/Label": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3.4833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "23"
+      ]
+    },
+    {
+      "frame": 3,
+      "func": "ShowBubble",
+      "params": [
+        "4",
+        "27"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIWrong",
+      "params": []
+    },
+    {
+      "frame": 5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "24"
+      ]
+    },
+    {
+      "frame": 3,
+      "func": "ShowDragon",
+      "params": [
+        "3"
+      ]
+    },
+    {
+      "frame": 3,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },
+    {
+      "frame": 7.8,
+      "func": "ShowBubble",
+      "params": [
+        "4",
+        "25"
+      ]
+    },
+    {
+      "frame": 7.8,
+      "func": "ShowBubble",
+      "params": [
+        "3",
+        "25"
+      ]
+    },
+    {
+      "frame": 8,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    }
+  ]
+}

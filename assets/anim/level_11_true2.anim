@@ -1,0 +1,124 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_11_true2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 8.316666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 8.316666666666666,
+              "value": 1250
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": 0
+            },
+            {
+              "frame": 8.316666666666666,
+              "value": 1070
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚剪影": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            },
+            {
+              "frame": 5.033333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚剪影/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "4"
+      ]
+    },
+    {
+      "frame": 3,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },
+    {
+      "frame": 3.0166666666666666,
+      "func": "ShowUIRight",
+      "params": []
+    }
+  ]
+}

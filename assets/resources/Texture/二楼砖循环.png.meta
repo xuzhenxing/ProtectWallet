@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cf0d377c-69eb-4c17-94b0-95f76a761722",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 86,
+  "height": 59,
+  "platformSettings": {},
+  "subMetas": {
+    "二楼砖循环": {
+      "ver": "1.0.4",
+      "uuid": "4cdbb608-bd1c-4b86-80a5-ba95b09106a4",
+      "rawTextureUuid": "cf0d377c-69eb-4c17-94b0-95f76a761722",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 59,
+      "rawWidth": 86,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

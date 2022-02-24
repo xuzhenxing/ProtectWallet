@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_27_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "shark1": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": 2330
+            },
+            {
+              "frame": 2,
+              "value": 2669.661
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": 2000
+            },
+            {
+              "frame": 2,
+              "value": 2442.494
+            }
+          ],
+          "active": [
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ],
+          "y": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": -121.53
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [ {"frame":2,"func":"ShowUIWrong","params":[]}]
+}

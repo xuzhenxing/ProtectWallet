@@ -1,0 +1,53 @@
+{
+    "__type__": "cc.AnimationClip",
+    "_name": "level_25_true1",
+    "_duration": 2.8,
+    "curveData": {
+        "paths": {
+            "Main Camera": {
+                "props": {
+                    "x": [{
+                        "frame": 0,
+                        "value": 750
+                    }, {
+                        "frame": 2.8,
+                        "value": 750
+                    }]
+                }
+            },
+            "猪脚": {
+                "props": {
+                    "x": [{
+                        "frame": 0,
+                        "value": 750
+                    }]
+                }
+            },
+            "风": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }]
+                }
+            },
+            "猪脚/气泡": {
+                "props": {
+                    "active": [{
+                        "frame": 1.0166666666666666,
+                        "value": true
+                    }, {
+                        "frame": 2.8,
+                        "value": false
+                    }]
+                }
+            }
+        }
+    },
+     "events": [{
+        "frame": 3.5,
+        "func": "ShowDragon",
+        "params": ["0"]
+    }
+    ]
+}

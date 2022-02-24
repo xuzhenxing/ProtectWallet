@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_26_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "active": [{
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{
+    "frame": 2,
+    "func": "ShowUIWrong",
+    "params": []
+  }]
+}

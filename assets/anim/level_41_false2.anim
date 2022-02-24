@@ -1,0 +1,373 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_41_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 18.033333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "badman": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1050
+            },
+            {
+              "frame": 5.5,
+              "value": 2200
+            },
+            {
+              "frame": 10.8,
+              "value": 2200
+            },
+            {
+              "frame": 13,
+              "value": 2515.634
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 5.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 5.516666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 10.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 10.833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "Level_41Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 850
+            },
+            {
+              "frame": 5,
+              "value": 2000
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 700
+            },
+            {
+              "frame": 5.5,
+              "value": 1950
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 14,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 14.016666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 18,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 18.033333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            },
+            {
+              "frame": 9.316666666666666,
+              "value": false
+            },
+            {
+              "frame": 15,
+              "value": true
+            },
+            {
+              "frame": 15.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 18,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 14.966666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 15.016666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 18,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 18.033333333333335,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                133.17,
+                278.637,
+                0
+              ]
+            },
+            {
+              "frame": 14.966666666666667,
+              "value": [
+                133.17,
+                278.637,
+                0
+              ]
+            },
+            {
+              "frame": 15.016666666666667,
+              "value": [
+                -97.97,
+                278.637,
+                0
+              ]
+            },
+            {
+              "frame": 18,
+              "value": [
+                -97.97,
+                278.637,
+                0
+              ]
+            },
+            {
+              "frame": 18.033333333333335,
+              "value": [
+                127.421,
+                278.637,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "badman/badqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 9.5,
+              "value": true
+            },
+            {
+              "frame": 10.75,
+              "value": false
+            }
+          ]
+        }
+      },
+      "nvde": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 12,
+              "value": false
+            },
+            {
+              "frame": 12.016666666666667,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 12.016666666666667,
+              "value": 1229.603
+            },
+            {
+              "frame": 14,
+              "value": 1778.716
+            }
+          ]
+        }
+      },
+      "nvde/nvdeqipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 13.85,
+              "value": true
+            },
+            {
+              "frame": 15,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "10"
+      ]
+    },
+    {
+      "frame": 8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "13"
+      ]
+    },
+    {
+      "frame": 9.5,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "14"
+      ]
+    },
+    {
+      "frame": 13.8,
+      "func": "ShowBubble",
+      "params": [
+        "2",
+        "15"
+      ]
+    },
+    {
+      "frame": 14.8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "16"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIWrong",
+      "params": []
+    }
+  ]
+}

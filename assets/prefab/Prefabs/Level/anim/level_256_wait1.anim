@@ -1,0 +1,48 @@
+{
+    "__type__": "cc.AnimationClip",
+    "_name": "level_25_wait1",
+    "curveData": {
+        "paths": {
+            "Main Camera": {
+                "props": {
+                    "x": [{
+                        "frame": 0,
+                        "value": 750
+                    }]
+                }
+            },
+            "猪脚": {
+                "props": {
+                    "x": [{
+                        "frame": 0,
+                        "value": 750
+                    }]
+                }
+            },
+            "风": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }]
+                }
+            },
+            "冰块": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }]
+                }
+            },
+            "火堆": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }]
+                }
+            }
+        }
+    }
+}

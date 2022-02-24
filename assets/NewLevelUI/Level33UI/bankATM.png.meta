@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f278e567-f44a-456c-8b2f-a7ea7ff7bd8d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 249,
+  "height": 358,
+  "platformSettings": {},
+  "subMetas": {
+    "bankATM": {
+      "ver": "1.0.4",
+      "uuid": "01a6f80b-d66e-4782-a2d9-d5d128abe333",
+      "rawTextureUuid": "f278e567-f44a-456c-8b2f-a7ea7ff7bd8d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 248,
+      "height": 358,
+      "rawWidth": 249,
+      "rawHeight": 358,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

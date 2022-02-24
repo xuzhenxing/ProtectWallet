@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "09285da0-7666-4cd7-8987-c27489184a9b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 193,
+  "height": 1034,
+  "platformSettings": {},
+  "subMetas": {
+    "第12关便利店后门": {
+      "ver": "1.0.4",
+      "uuid": "1c60286c-7a5f-4147-82ec-4f9b8be2e853",
+      "rawTextureUuid": "09285da0-7666-4cd7-8987-c27489184a9b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 192,
+      "height": 1034,
+      "rawWidth": 193,
+      "rawHeight": 1034,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

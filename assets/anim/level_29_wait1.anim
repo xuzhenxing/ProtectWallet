@@ -1,0 +1,125 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_29_wait1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Level_29 Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 100
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.1,
+              "value": 20
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 0
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 30
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 20
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 157.315
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 235.048
+            }
+          ]
+        }
+      },
+      "bg/s14 #9265": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bg/s25 #8712": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -45
+            }
+          ]
+        }
+      },
+      "bg/s16 #3393": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

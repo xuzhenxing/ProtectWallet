@@ -1,0 +1,86 @@
+{
+    "__type__": "cc.AnimationClip",
+    "_name": "level_25_start1",
+    "_duration": 6.5,
+    "curveData": {
+        "paths": {
+            "Main Camera": {
+                "props": {
+                    "x": [{
+                        "frame": 0,
+                        "value": 0
+                    }, {
+                        "frame": 4.5,
+                        "value": 750
+                    }]
+                }
+            },
+            "猪脚": {
+                "props": {
+                    "x": [{
+                        "frame": 0,
+                        "value": -218
+                    }, {
+                        "frame": 4.5,
+                        "value": 750
+                    }]
+                }
+            },
+            "风": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }, {
+                        "frame": 4.5,
+                        "value": true
+                    }]
+                }
+            },
+            "火堆": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }],
+                    "x": [{
+                        "frame": 0,
+                        "value": 875.739
+                    }]
+                }
+            },
+            "冰块": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }]
+                }
+            },
+            "猪脚/气泡": {
+                "props": {
+                    "active": [{
+                        "frame": 0,
+                        "value": false
+                    }, {
+                        "frame": 4.5,
+                        "value": true
+                    }, {
+                        "frame": 6.5,
+                        "value": false
+                    }]
+                }
+            }
+        }
+    },
+     "events": [{
+        "frame": 1,
+        "func": "ShowBubble",
+        "params": ["0", "0"]
+    },
+    {
+        "frame": 3.5,
+        "func": "ShowDragon",
+        "params": ["0"]
+    }]
+}

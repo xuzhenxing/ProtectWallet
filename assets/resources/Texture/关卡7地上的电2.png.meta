@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7ffe2567-0619-4db7-abbf-bd3eb7ea42d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 53,
+  "height": 43,
+  "platformSettings": {},
+  "subMetas": {
+    "关卡7地上的电2": {
+      "ver": "1.0.4",
+      "uuid": "5d6d1d98-8658-49e9-94d6-4f906737d713",
+      "rawTextureUuid": "7ffe2567-0619-4db7-abbf-bd3eb7ea42d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 53,
+      "height": 43,
+      "rawWidth": 53,
+      "rawHeight": 43,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

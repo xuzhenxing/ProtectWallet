@@ -1,0 +1,270 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_25_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "木板放下": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "木板放下/木板放下/第3关长木板": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 79
+            },
+            {
+              "frame": 0.05,
+              "value": 79
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "木板断裂": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": true
+            }
+          ]
+        }
+      },
+      "木板断裂/木板断裂/第3关破木板右": {
+        "props": {
+          "angle": [
+            {
+              "frame": 1.0666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": 67
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.2333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": -45.333
+            },
+            {
+              "frame": 1.4833333333333334,
+              "value": -136
+            }
+          ],
+          "x": [
+            {
+              "frame": 1.2333333333333334,
+              "value": 138.692
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": 91.329
+            }
+          ]
+        }
+      },
+      "木板断裂/木板断裂/第3关破木板左": {
+        "props": {
+          "angle": [
+            {
+              "frame": 1.0666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": -71
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.2333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": -44.333
+            },
+            {
+              "frame": 1.4833333333333334,
+              "value": -133
+            }
+          ],
+          "x": [
+            {
+              "frame": 1.0666666666666667,
+              "value": -169.154
+            },
+            {
+              "frame": 1.2333333333333334,
+              "value": -88.248
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": -70.324
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 2575
+            },
+            {
+              "frame": 1.15,
+              "value": 2806.533
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -36
+            },
+            {
+              "frame": 1.1,
+              "value": -36
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": -479.967
+            },
+            {
+              "frame": 2.5,
+              "value": -479.967
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2780
+            }
+          ]
+        }
+      },
+      "错地下遮罩": {
+        "props": {
+          "active": [
+            {
+              "frame": 1.05,
+              "value": false
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": true
+            },
+            {
+              "frame": 1.1,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心/爱心": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.5166666666666667
+              }
+            ]
+          }
+        }
+      },
+      "石头": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "yanchen": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "猪脚/爱心": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.5166666666666667,
+                "value": {
+                  "__uuid__": "670e9d02-320d-4417-ae94-5b85f4eb97c4"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

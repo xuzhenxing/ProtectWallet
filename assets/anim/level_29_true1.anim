@@ -1,0 +1,147 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_29_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 5.5,
+              "value": 1700
+            }
+          ]
+        }
+      },
+      "Level_29 Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 5.5,
+              "value": 1540
+            }
+          ]
+        }
+      },
+      "light/a2 #2307": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "a2 #23071": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": true
+            }
+          ],
+          "y": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 284.676
+            },
+            {
+              "frame": 0.5,
+              "value": 247.48
+            },
+            {
+              "frame": 0.75,
+              "value": -45.886
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.75,
+              "value": -30
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 235.135
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 232.746
+            },
+            {
+              "frame": 0.75,
+              "value": 455.956
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    },
+    {"frame":2,"func":"ShowUIRight","params":[]}
+  ]
+}

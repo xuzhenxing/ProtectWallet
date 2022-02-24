@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_27_true2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 2.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": 1000
+            },
+            {
+              "frame": 6,
+              "value": 2000
+            }
+          ]
+        }
+      },
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": 1150
+            },
+            {
+              "frame": 6,
+              "value": 2250
+            }
+          ]
+        }
+      },
+      "shark": {
+        "props": {
+          "x": [
+            {
+              "frame": 1,
+              "value": 1000
+            },
+            {
+              "frame": 6,
+              "value": 2000
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIRight",
+      "params": []
+    }
+  ]
+}

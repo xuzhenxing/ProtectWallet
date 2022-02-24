@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9c42a341-a9bb-4a2c-baf6-32c429b74894",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 175,
+  "height": 172,
+  "platformSettings": {},
+  "subMetas": {
+    "木地板循环": {
+      "ver": "1.0.4",
+      "uuid": "f2ed6a99-cd13-467f-98f0-9c7724db554d",
+      "rawTextureUuid": "9c42a341-a9bb-4a2c-baf6-32c429b74894",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 175,
+      "height": 172,
+      "rawWidth": 175,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

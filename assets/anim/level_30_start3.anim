@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_30_start3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2500
+            }
+          ]
+        }
+      },
+      "Level_30Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 2600
+            }
+          ]
+        }
+      },
+      "desk/flower": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/气泡爱心": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 180.772
+            }
+          ],
+          "y": [
+            {
+              "frame": 0,
+              "value": 241.47
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

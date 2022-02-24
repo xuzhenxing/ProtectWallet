@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_40_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6.033333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "bad": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 1.9833333333333334,
+              "value": 2700
+            },
+            {
+              "frame": 5,
+              "value": 2202.19
+            }
+          ]
+        }
+      },
+      "bad/badQi": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5,
+              "value": true
+            },
+            {
+              "frame": 6.033333333333333,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.5,
+              "value": true
+            },
+            {
+              "frame": 3.5166666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "14"
+      ]
+    },
+    {
+      "frame":4,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "14"
+      ]
+    },
+    {"frame":2,"func":"ShowUIWrong","params":[]}
+  ]
+}

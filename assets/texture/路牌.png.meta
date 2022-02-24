@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1e2f76eb-150a-4746-bf4f-c55c32143fdc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 260,
+  "height": 277,
+  "platformSettings": {},
+  "subMetas": {
+    "路牌": {
+      "ver": "1.0.4",
+      "uuid": "b762851a-b3b4-420f-83dd-0d3090c4765a",
+      "rawTextureUuid": "1e2f76eb-150a-4746-bf4f-c55c32143fdc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 260,
+      "height": 277,
+      "rawWidth": 260,
+      "rawHeight": 277,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

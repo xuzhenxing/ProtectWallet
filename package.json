@@ -1,0 +1,32 @@
+{
+  "name": "DiscerningPerson",
+  "version": "1.0.0",
+  "description": "无限找茬",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "flyio": "^0.6.14",
+    "gulp": "^3.9.1",
+    "gulp-qiniu": "^0.2.4",
+    "gulp-tinypng-compress": "^1.2.1",
+    "gulp-uglify": "^3.0.1",
+    "gulp-upload-qcloud": "^1.3.0"
+  },
+  "dependencies": {
+    "bignumber.js": "^8.1.1",
+    "gulp-javascript-obfuscator": "^1.1.6",
+    "gulp-replace": "^1.0.0",
+    "gulp-tinypng-nokey": "^1.1.0",
+    "md5": "^2.2.1",
+    "minimatch": "^3.0.4",
+    "node-uuid": "^1.4.8",
+    "npm": "^6.14.4",
+    "request": "^2.88.0",
+    "sval": "^0.2.7",
+    "uuid": "^3.3.2"
+  }
+}

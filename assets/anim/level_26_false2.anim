@@ -1,0 +1,117 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_26_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "falsefire2": {
+        "props": {
+          "active": [{
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "falsefire2/3/关卡6火": {
+        "props": {
+          "active": [{
+              "frame": 1.5,
+              "value": false
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": true
+            }
+          ]
+        }
+      },
+      "falsefire2/2/关卡6火": {
+        "props": {
+          "active": [{
+              "frame": 1.5,
+              "value": false
+            },
+            {
+              "frame": 3.5166666666666666,
+              "value": true
+            }
+          ]
+        }
+      },
+      "falsefire2/4/关卡6火": {
+        "props": {
+          "scale": [{
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 2.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 1.5
+              }
+            }
+          ],
+          "y": [{
+              "frame": 1.5,
+              "value": 0
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": 62.946
+            }
+          ]
+        }
+      },
+      "flash1": {
+        "props": {
+          "opacity": [{
+              "frame": 1.5,
+              "value": 200
+            },
+            {
+              "frame": 4.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [{
+            "frame": 0,
+            "value": false
+          }]
+        }
+      },
+      "falsefire2/1/关卡6火": {
+        "props": {
+          "active": [{
+            "frame": 1.5,
+            "value": true
+          }]
+        }
+      }
+    }
+  },
+  "events": [{
+    "frame": 2,
+    "func": "ShowUIWrong",
+    "params": []
+  }]
+}

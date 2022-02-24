@@ -1,0 +1,144 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_34_false2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Level_34Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1100
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1000
+            }
+          ]
+        }
+      },
+      "Smoke": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1272.132
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "badMan": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1281.302
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.1166666666666667,
+              "value": true
+            }
+          ]
+        }
+      },
+      "professor": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "badMan/qipaoBadMan": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.0166666666666666,
+              "value": true
+            },
+            {
+              "frame": 6.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{
+    "frame":1.5,
+    "func":"ShowBubble",
+    "params": [
+        "5",
+        "13"
+      ]
+  },{
+    "frame":3,
+    "func":"ShowBubble",
+    "params": [
+        "2",
+        "3"
+      ]
+  },{"frame":2,"func":"ShowUIWrong","params":[]}
+  ]
+}

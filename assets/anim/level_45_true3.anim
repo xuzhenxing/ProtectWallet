@@ -1,0 +1,279 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_45_true3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 10,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.3,
+                "y": 0.3
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.7,
+                "y": 0.7
+              }
+            }
+          ]
+        }
+      },
+      "猪脚/Phone/1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            }
+          ],
+          "position": []
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "aca1a0ae-7dea-4068-aadb-7576bf3245a3"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "猪脚/Phone/2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.5,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 2.5,
+              "value": [
+                -189.069,
+                126.528,
+                0
+              ]
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 2.5,
+                "value": {
+                  "__uuid__": "ed9ca726-7756-40ce-9649-c787de79b407"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "猪脚/Phone/3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 3.5,
+              "value": [
+                214.862,
+                36.105,
+                0
+              ]
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 3.5,
+                "value": {
+                  "__uuid__": "eb65c651-3fef-402f-bc2d-30d759fd53a5"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "猪脚/Phone/4": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 3.5,
+              "value": [
+                94.446,
+                29.342,
+                0
+              ]
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 3.5,
+                "value": {
+                  "__uuid__": "fd7bb798-6b84-4ab5-b0a2-f81ed1731889"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "猪脚/Phone/5": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3.5,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 3.5,
+              "value": [
+                -3.355,
+                -49.854,
+                0
+              ]
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 3.5,
+                "value": {
+                  "__uuid__": "c3b1e488-7896-42b1-bab7-19bcec39bd1a"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 5,
+              "value": true
+            },
+            {
+              "frame": 10,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚/Phone/6": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "ShowUIRight",
+      "params": []
+    },{
+      "frame": 3.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "13"
+      ]
+    },
+    {
+      "frame": 5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "13"
+      ]
+    },
+    {
+      "frame": 7,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "14"
+      ]
+    }
+  ]
+}

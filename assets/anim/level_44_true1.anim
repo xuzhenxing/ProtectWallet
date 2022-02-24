@@ -1,0 +1,149 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_44_true1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            },
+            {
+              "frame": 6,
+              "value": true
+            },
+            {
+              "frame": 9.5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "Phone": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": true
+            },
+            {
+              "frame": 6,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                69.352,
+                -111.779,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                69.352,
+                -111.779,
+                0
+              ]
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": [
+                16.773,
+                -89.245,
+                0
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                16.773,
+                -89.245,
+                0
+              ]
+            },
+            {
+              "frame": 6.016666666666667,
+              "value": [
+                69.352,
+                -111.779,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "Phone/finger": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "6"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIRight",
+      "params": []
+    },
+    {
+      "frame": 4,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "1"
+      ]
+    },
+    {
+      "frame": 6,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "7"
+      ]
+    },
+    {
+      "frame": 8,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "8"
+      ]
+    }
+  ]
+}

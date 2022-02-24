@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "179af78e-6dfe-4ef8-8689-abb7f2d82a78",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 290,
+  "height": 275,
+  "platformSettings": {},
+  "subMetas": {
+    "被电了雨伞": {
+      "ver": "1.0.4",
+      "uuid": "1c41b4bf-d75a-4180-b1f1-24c781e1c89c",
+      "rawTextureUuid": "179af78e-6dfe-4ef8-8689-abb7f2d82a78",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 290,
+      "height": 275,
+      "rawWidth": 290,
+      "rawHeight": 275,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

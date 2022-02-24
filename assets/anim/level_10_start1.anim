@@ -1,0 +1,311 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_10_start1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Main Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -1473
+            },
+            {
+              "frame": 4.233333333333333,
+              "value": -1473
+            },
+            {
+              "frame": 7.666666666666667,
+              "value": -555.935
+            }
+          ]
+        }
+      },
+      "小偷": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -1955
+            },
+            {
+              "frame": 2.25,
+              "value": -1501
+            },
+            {
+              "frame": 6.583333333333333,
+              "value": -1501
+            },
+            {
+              "frame": 6.6,
+              "value": -1381.894
+            },
+            {
+              "frame": 8.383333333333333,
+              "value": -740
+            }
+          ]
+        }
+      },
+      "小偷/气泡表情": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -1336
+            },
+            {
+              "frame": 4.25,
+              "value": -1336
+            },
+            {
+              "frame": 8.166666666666666,
+              "value": -475
+            }
+          ]
+        }
+      },
+      "猪脚/气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.283333333333333,
+              "value": true
+            },
+            {
+              "frame": 4.25,
+              "value": false
+            },
+            {
+              "frame": 7,
+              "value": true
+            },
+            {
+              "frame": 9,
+              "value": false
+            }
+          ]
+        }
+      },
+      "小偷/小偷气泡": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 2.2333333333333334,
+              "value": true
+            },
+            {
+              "frame": 4,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 2.2333333333333334,
+              "value": [
+                68.641,
+                134.193,
+                0
+              ]
+            },
+            {
+              "frame": 2.25,
+              "value": [
+                29.91,
+                198.048,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                29.91,
+                198.048,
+                0
+              ]
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": [
+                68.641,
+                134.193,
+                0
+              ]
+            }
+          ],
+          "scale": [
+            {
+              "frame": 2.2333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      },
+      "小偷/小偷气泡/Label": {
+        "props": {
+          "scale": [
+            {
+              "frame": 2.2333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.283333333333333,
+      "func": "ShowBubble",
+      "params": [
+        "1",
+        "8"
+      ]
+    },
+    {
+      "frame": 2.25,
+      "func": "ShowDragon",
+      "params": [
+        "1"
+      ]
+    },
+    {
+      "frame": 2.2666666666666666,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },
+    {
+      "frame": 2.283333333333333,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "0"
+      ]
+    },
+    {
+      "frame": 4.25,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },
+    {
+      "frame": 4.266666666666667,
+      "func": "ShowDragon",
+      "params": [
+        "1"
+      ]
+    },
+    {
+      "frame": 6.583333333333333,
+      "func": "ShowDragon",
+      "params": [
+        "1"
+      ]
+    },
+    {
+      "frame": 7,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "1"
+      ]
+    },
+    {
+      "frame": 8.166666666666666,
+      "func": "ShowDragon",
+      "params": [
+        "0"
+      ]
+    },
+    {
+      "frame": 8.383333333333333,
+      "func": "ShowDragon",
+      "params": [
+        "1"
+      ]
+    }
+  ]
+}

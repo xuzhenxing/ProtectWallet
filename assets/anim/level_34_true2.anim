@@ -1,0 +1,130 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_34_true2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Level_34Camera": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1100
+            }
+          ]
+        }
+      },
+      "猪脚": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1000
+            }
+          ]
+        }
+      },
+      "猪脚/qipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 5,
+              "value": false
+            }
+          ]
+        }
+      },
+      "professor": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 1280
+            },
+            {
+              "frame": 2,
+              "value": 1280
+            },
+            {
+              "frame": 3.5,
+              "value": 2190.407
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.0166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "5"
+      ]
+    },
+    {
+      "frame": 2.5,
+      "func": "ShowBubble",
+      "params": [
+        "0",
+        "6"
+      ]
+    },
+    {
+      "frame": 2,
+      "func": "ShowUIRight",
+      "params": []
+    },
+    {
+      "frame": 2,
+      "func": "ShowDragon",
+      "params": [
+        "3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "level_33_false3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 9,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "counter": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "thief": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ],
+          "x": [
+            {
+              "frame": 0,
+              "value": 2840
+            },
+            {
+              "frame": 1.5,
+              "value": 2488.646
+            },
+            {
+              "frame": 2.5,
+              "value": 2488.646
+            },
+            {
+              "frame": 3.5,
+              "value": 3067.51
+            }
+          ]
+        }
+      },
+      "phoneQipao1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 3,
+              "value": true
+            },
+            {
+              "frame": 9,
+              "value": false
+            }
+          ]
+        }
+      },
+      "thief/PhoneQipao": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            }
+          ]
+        }
+      },
+      "thief/PhoneQipao1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            },
+            {
+              "frame": 3,
+              "value": false
+            }
+          ]
+        }
+      },
+      "note": {
+        "props": {
+          "x": [
+            {
+              "frame": 1.5,
+              "value": 2240.4
+            },
+            {
+              "frame": 2,
+              "value": 2395.454
+            }
+          ],
+          "y": [
+            {
+              "frame": 1.5,
+              "value": -270
+            },
+            {
+              "frame": 2,
+              "value": -263.258
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.5,
+              "value": true
+            },
+            {
+              "frame": 2,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [{"frame":2,"func":"ShowUIWrong","params":[]},{
+      "frame": 1,
+      "func": "ShowBubble",
+      "params": [
+        "6",
+        "12"
+      ]
+    },{
+      "frame": 2.9,
+      "func": "ShowBubble",
+      "params": [
+        "7",
+        "13"
+      ]
+    }
+    ]
+}

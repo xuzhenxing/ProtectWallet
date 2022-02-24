@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "130e0314-0840-4241-adb1-bcf673e6e458",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 416,
+  "height": 578,
+  "platformSettings": {},
+  "subMetas": {
+    "火箭_开": {
+      "ver": "1.0.4",
+      "uuid": "84305e4f-4209-44dc-9db7-c1ab5fc6a320",
+      "rawTextureUuid": "130e0314-0840-4241-adb1-bcf673e6e458",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 416,
+      "height": 577,
+      "rawWidth": 416,
+      "rawHeight": 578,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
